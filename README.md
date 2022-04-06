@@ -1,7 +1,7 @@
 <img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
 
 # [Coursera](https://www.coursera.org/) Specializations
-Coursera specializations for computer science students.
+Coursera Specializations for computer science students.
 
 <br>
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
