@@ -279,22 +279,6 @@ iOS App Development with Swift
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Kotlin for Java Developers by JetBrains<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/jetbrains.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/kotlin-for-java-developers">Kotlin for Java Developers</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-Developing Android Apps with App Inventor by The Hong Kong University of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/app-inventor-android">Developing Android Apps with App Inventor</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
                 <td rowspan=2 align=center>
 Programming Mobile Applications for Android Handheld Systems by University of Maryland College Park 
 <br>
@@ -306,31 +290,6 @@ Programming Mobile Applications for Android Handheld Systems by University of Ma
             <tr>
                 <td><a href="https://www.coursera.org/learn/android-programming-2">Programming Mobile Applications for Android Handheld Systems: Part 2</a></td>
                 <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=5 align=center>
-C# Programming for Unity Game Development  
-<a href="https://www.coursera.org/specializations/programming-unity-game-development">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introduction-programming-unity">Introduction to C# Programming and Unity</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/more-programming-unity">More C# Programming and Unity</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/intermediate-object-oriented-programming-unity-games">Intermediate Object-Oriented Programming for Unity Games</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/data-structures-design-patterns">Data Structures and Design Patterns for Game Developers</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/programming-unity-game-development-project">C# Programming for Unity Game Development Capstone Project</a></td>
-                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=5 align=center>
@@ -489,27 +448,6 @@ Game Design and Development with Unity 2020
             </tr>
             <tr>
                 <td><a href="https://www.coursera.org/learn/game-design-and-development-5">Game Design and Development 5: Capstone Project</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-C++ Programming for Unreal Game Development  
-<a href="https://www.coursera.org/specializations/cplusplusunrealgamedevelopment">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/introductionprogrammingunreal">Introduction to C++ Programming and Unreal</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/more-programming-unreal">More C++ Programming and Unreal</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/cpp-class-development">C++ Class Development</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/intermediate-object-oriented-programming--unreal-games">Intermediate Object-Oriented Programming for Unreal Games</a></td>
                 <td align="center">20</td>
             </tr>
             <tr>
