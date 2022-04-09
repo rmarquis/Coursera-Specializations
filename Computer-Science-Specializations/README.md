@@ -218,5 +218,17 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">DevOps by University of California Davis</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">DevOps by University of Virginia</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">DevOps by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Software-Engineering-Specializations/Continuous-Delivery-and-DevOps-Specializations/README.md">Python Scripting for DevOps Specialization by LearnQuest</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="70%"></img></td>
+        </tr>
     </tbody>
 </table>
