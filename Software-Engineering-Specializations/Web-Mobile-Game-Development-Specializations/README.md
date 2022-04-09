@@ -154,56 +154,6 @@ Web Applications for Everybody
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
-Modern Application Development with Node.js on AWS  
-<a href="https://www.coursera.org/specializations/aws-nodejs-serverless-development">Specialization</a> by Amazon Web Services<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/building-modern-node-applications-on-aws">Building Modern Node.js Applications on AWS</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=3 align=center>
-Modern Application Development with .NET on AWS  
-<a href="https://www.coursera.org/specializations/aws-net-serverless-development">Specialization</a> by Amazon Web Services<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/aws-building-modern-net-applications">Building Modern .NET Applications on AWS</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/dynamodb-nosql-database-driven-apps">Amazon DynamoDB: Building NoSQL Database-Driven Applications</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-HTML, CSS, and Javascript for Web Developers by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/johns%20hopkins%20university.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a></td>
-                <td align="center">30</td>
-            </tr>
-            <tr>
-                <td rowspan=1 align=center>
-How To Create a Website in a Weekend! (Project-Centered Course) by The State University of New York<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/how-to-create-a-website">How To Create a Website in a Weekend! (Project-Centered Course)</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
                 <td rowspan=5 align=center>
 Android App Development  
 <a href="https://www.coursera.org/specializations/android-app-development">Specialization</a> by Vanderbilt University<br>
