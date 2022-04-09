@@ -382,7 +382,7 @@ Probabilistic Graphical Models
             <tr>
                 <td rowspan=5 align=center>
 Geographic Information Systems (GIS)  
-<a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California, Davis<br>
+<a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gis">Fundamentals of GIS</a></td>
