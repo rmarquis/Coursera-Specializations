@@ -270,32 +270,6 @@ Architecting with Google Kubernetes Engine
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
-DevOps by University of California Davis 
-<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/devops-culture-and-mindset">DevOps Culture and Mindset</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/continuous-integration">Continuous Integration</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td rowspan=2 align=center>
-DevOps by University of Virginia 
-<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20virginia.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/uva-darden-continous-delivery-devops">Continuous Delivery & DevOps</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/uva-darden-project-management">Fundamentals of Project Planning and Management</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
                 <td rowspan=6 align=center>
 Cloud Computing  
 <a href="https://www.coursera.org/specializations/cloud-computing">Specialization</a> by University of Illinois at Urbana-Champaign<br>
@@ -377,40 +351,6 @@ Software Product Management
             <tr>
                 <td><a href="https://www.coursera.org/learn/software-product-management-capstone">Software Product Management Capstone</a></td>
                 <td align="center">25</td>
-            </tr>
-            <tr>
-                <td rowspan=2 align=center>
-DevOps by LearnQuest 
-<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/cloud-computing-basics">Cloud Computing Basics (Cloud 101)</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/kubernetes-deployment">Fundamentals of Kubernetes Deployment</a></td>
-                <td align="center">10</td>
-            </tr>
-            <tr>
-                <td rowspan=4 align=center>
-Python Scripting for DevOps  
-<a href="https://www.coursera.org/specializations/python-scripting-devops">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
-                </td>
-                <td><a href="https://www.coursera.org/learn/python-scripting-intro">Introduction to Python Scripting for DevOps</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-scripting-dates-classes-collections">Python Scripting: Dates, Classes and Collections</a></td>
-                <td align="center">15</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/python-scripting-files-inheritance-databases">Python Scripting: Files, Inheritance, and Databases</a></td>
-                <td align="center">20</td>
-            </tr>
-            <tr>
-                <td><a href="https://www.coursera.org/learn/devops-build-automation-python">DevOps and Build Automation with Python</a></td>
-                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=4 align=center>
