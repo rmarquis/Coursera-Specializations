@@ -362,5 +362,68 @@ Data Mining Foundations and Practice
                 <td><a href="https://www.coursera.org/learn/data-mining-theory-practice-project">Data Mining Project</a></td>
                 <td align="center">40</td>
             </tr>
+            <tr>
+                <td rowspan=3 align=center>
+Probabilistic Graphical Models  
+<a href="https://www.coursera.org/specializations/probabilistic-graphical-models">Specialization</a> by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/probabilistic-graphical-models">Probabilistic Graphical Models 1: Representation</a></td>
+                <td align="center">70</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/probabilistic-graphical-models-2-inference">Probabilistic Graphical Models 2: Inference</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/probabilistic-graphical-models-3-learning">Probabilistic Graphical Models 3: Learning</a></td>
+                <td align="center">70</td>
+            </tr>
+            <tr>
+                <td rowspan=5 align=center>
+Geographic Information Systems (GIS)  
+<a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California, Davis<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/gis">Fundamentals of GIS</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gis-data">GIS Data Formats, Design and Quality</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/spatial-analysis">Geospatial and Environmental Analysis</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gis-applications">Imagery, Automation, and Applications</a></td>
+                <td align="center">30</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/gis-capstone">Geospatial Analysis Project</a></td>
+                <td align="center">65</td>
+            </tr>
+            <tr>
+                <td rowspan=2 align=center>
+Practical Python for AI Coding Specialization 
+<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/practical-python-for-ai-coding--preparation-for-coding">Practical Python for AI Coding 1</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/practical-python-for-ai-coding-2">Practical Python for AI Coding 2</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Math for AI beginner part 1 Linear Algebra by Korea Advanced Institute of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/math-for-ai-beginner-part-1-linear-algebra">Math for AI beginner part 1 Linear Algebra</a></td>
+                <td align="center">10</td>
+            </tr>
     </tbody>
 </table>
