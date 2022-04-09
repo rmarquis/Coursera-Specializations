@@ -12,15 +12,11 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=5 align=center>
-Calculus and Algebra by The Hong Kong University of Science and Technology 
-<br>
+                <td rowspan=6 align=center>
+Mathematics for Engineers  
+<a href="https://www.coursera.org/specializations/mathematics-engineers">Specialization</a> by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
-                <td align="center">25</td>
-            </tr>
-            <tr>
                 <td><a href="https://www.coursera.org/learn/matrix-algebra-engineers">Matrix Algebra for Engineers</a></td>
                 <td align="center">20</td>
             </tr>
@@ -33,7 +29,15 @@ Calculus and Algebra by The Hong Kong University of Science and Technology
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
+                <td><a href="https://www.coursera.org/learn/vector-calculus-engineers">Vector Calculus for Engineers</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/numerical-methods-engineers">Numerical Methods for Engineers</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/mathematics-engineers-capstone">Mathematics for Engineers: The Capstone Course</a></td>
                 <td align="center">10</td>
             </tr>
             <tr>
@@ -190,9 +194,9 @@ Introduction to Statistics by Stanford University<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
-Bayesian Statistics by University of California Santa Cruz 
-<br>
+                <td rowspan=5 align=center>
+Bayesian Statistics  
+<a href="https://www.coursera.org/specializations/bayesian-statistics">Specialization</a> by University of California Santa Cruz<br>
 <img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/bayesian-statistics">Bayesian Statistics: From Concept to Data Analysis</a></td>
@@ -205,6 +209,14 @@ Bayesian Statistics by University of California Santa Cruz
             <tr>
                 <td><a href="https://www.coursera.org/learn/mixture-models">Bayesian Statistics: Mixture Models</a></td>
                 <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/bayesian-statistics-time-series-analysis">Bayesian Statistics: Time Series Analysis</a></td>
+                <td align="center">25</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/bayesian-statistics-capstone">Bayesian Statistics: Capstone Project</a></td>
+                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=3 align=center>
@@ -230,6 +242,38 @@ Introduction to Number Theory by HSE University<br>
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-number-theory">Introduction to Number Theory</a></td>
                 <td align="center">35</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/fibonacci">Fibonacci Numbers and the Golden Ratio</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Introduction to Logic by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/logic-introduction">Introduction to Logic</a></td>
+                <td align="center">50</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Introduction to Mathematical Thinking by Stanford University<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/mathematical-thinking">Introduction to Mathematical Thinking</a></td>
+                <td align="center">40</td>
+            </tr>
+            <tr>
+                <td rowspan=1 align=center>
+Logic for Economists by University of Amsterdam<br>
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20amsterdam.jpg" width="40%">
+                </td>
+                <td><a href="https://www.coursera.org/learn/logic-for-economists">Logic for Economists</a></td>
+                <td align="center">10</td>
             </tr>
     </tbody>
 </table>
