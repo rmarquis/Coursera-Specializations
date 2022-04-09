@@ -120,6 +120,18 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eindhoven%20university%20of%20technology.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
         </tr>
+        <tr>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Machine-Learning-and-Data-Mining-Specializations/README.md">Probabilistic Graphical Models Specialization by Stanford University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Machine-Learning-and-Data-Mining-Specializations/README.md">Geographic Information Systems (GIS) Specialization by University of California Davis</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Machine-Learning-and-Data-Mining-Specializations/README.md">Practical Python for AI Coding Specialization</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Artificial-Intelligence-Specializations/Machine-Learning-and-Data-Mining-Specializations/README.md">Math for AI beginner part 1 Linear Algebra by Korea Advanced Institute of Science and Technology</a></td>
+        </tr>
+        <tr>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="70%"></img></td>
+        </tr>
     </tbody>
 </table>
 
