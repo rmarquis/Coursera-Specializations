@@ -21,8 +21,8 @@ Software Engineering Specializations for computer science students, which includ
 
 #### - [Software Engineering](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
-#### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
+#### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Software-Engineering-Specializations/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
