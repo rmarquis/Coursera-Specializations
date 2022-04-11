@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Programming Languages and Object Oriented Specializations](#Programming-Languages-and-Object-Oriented-Specializations)
   * [Mathematics and Probability Specializations](#Mathematics-and-Probability-Specializations)
-  * [Data Structures and Algorithms Specializations](#Data-Structures-and-Algorithms-Analysis-Specializations)
+  * [Data Structures and Algorithms Specializations](#Data-Structures-and-Algorithms-Specializations)
   * [Operating Systems and Parallel Computing Specializations](#Operating-Systems-and-Parallel-Computing-Specializations)
 
 <br><br>
