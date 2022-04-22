@@ -15,5 +15,5 @@
 
 ## [Operation Research and Decision Theory]() Specializations
 ## [Dynamic Programming and Stochastic Models]() Specializations
-## [Reinforcement Learning]() Specializations
+## [Reinforcement Learning and Game Theory]() Specializations
 ## [Systems Project Management]() Specializations
