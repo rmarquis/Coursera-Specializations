@@ -8,12 +8,12 @@
 ## Table of Contents
   * [Operation Research and Decision Theory Specializations](#Operation-Research-and-Decision-Theory-Specializations)
   * [Dynamic Programming and Stochastic Models Specializations](#Dynamic-Programming-and-Stochastic-Models-Specializations)
-  * [Reinforcement Learning Specializations](#Reinforcement-Learning-Specializations)
-  * [Project Management Specializations](#Project-Management-Specializations)
+  * [Reinforcement Learning and Game Theory Specializations](#Reinforcement-Learning-and-Game-Theory-Specializations)
+  * [Systems Project Management Specializations](#Systems-Project-Management-Specializations)
 
 <br><br>
 
 ## [Operation Research and Decision Theory]() Specializations
 ## [Dynamic Programming and Stochastic Models]() Specializations
 ## [Reinforcement Learning]() Specializations
-## [Project Management]() Specializations
+## [Systems Project Management]() Specializations
