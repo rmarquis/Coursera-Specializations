@@ -41,7 +41,7 @@ Data Science Specializations for computer science students, which including the 
 
 #### - [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science/README.md) Specializations
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science/README.md) Specializations
-#### - [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science/README.md) Specializations
+#### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science/README.md) Specializations
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/Coursera-Specializations/tree/master/Data-Science/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
