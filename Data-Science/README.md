@@ -8,7 +8,7 @@
 ## Table of Contents
   * [Data Science and Business Analytics Specializations](#Data-Science-and-Business-Analytics-Specializations)
   * [Data Analysis and Visualization Specializations](#Data-Analysis-and-Visualization-Specializations)
-  * [Business Intelligence Specializations](#Business-Intelligence-Specializations)
+  * [Business Intelligence and Data Management Specializations](#Business-Intelligence-and-Data-Management-Specializations)
   * [Data Engineering and Big Data Specializations](#Data-Engineering-and-Big-Data-Specializations)
 
 <br><br>
@@ -135,7 +135,7 @@
     </tbody>
 </table>
 
-## [Business Intelligence](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Specializations
+## [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Data-Science/Business-Intelligence-and-Data-Management/README.md) Specializations
 
 <table>
     <tbody>
