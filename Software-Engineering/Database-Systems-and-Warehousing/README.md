@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/coursera.jpg">
 
 ## Database Systems and Warehousing Specializations
 
@@ -15,7 +15,7 @@
                 <td rowspan=4 align=center>
 Learn SQL Basics for Data Science
 <a href="https://www.coursera.org/specializations/learn-sql-basics-data-science">Specialization</a> by University of California Davis<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20davis.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20davis.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a></td>
                 <td align="center">15</td>
@@ -36,7 +36,7 @@ Learn SQL Basics for Data Science
                 <td rowspan=5 align=center>
 Excel to MySQL: Analytic Techniques for Business
 <a href="https://www.coursera.org/specializations/excel-mysql">Specialization</a> by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/duke%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/duke%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/analytics-business-metrics">Business Metrics for Data-Driven Companies</a></td>
                 <td align="center">10</td>
@@ -61,7 +61,7 @@ Excel to MySQL: Analytic Techniques for Business
                 <td rowspan=5 align=center>
 Data Systems
 <a href="https://www.coursera.org/specializations/data-systems">Specialization</a> by Arizona State University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/arizona%20state%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/arizona%20state%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/core-database">Core Database Concepts</a></td>
                 <td align="center">20</td>
@@ -86,7 +86,7 @@ Data Systems
                 <td rowspan=4 align=center>
 Database systems
 <a href="https://www.coursera.org/specializations/database-systems">Specialization</a> by universidad nacional autonoma de mexico<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/universidad%20nacional%20autonoma%20de%20mexico.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/universidad%20nacional%20autonoma%20de%20mexico.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/relational-database">Relational database systems</a></td>
                 <td align="center">25</td>
@@ -107,7 +107,7 @@ Database systems
                 <td rowspan=4 align=center>
 Oracle SQL Databases
 <a href="https://www.coursera.org/specializations/oracle-sql-databases">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-oracle-sql">Oracle Database Foundations</a></td>
                 <td align="center">15</td>
@@ -128,7 +128,7 @@ Oracle SQL Databases
                 <td rowspan=4 align=center>
 PostgreSQL for Everybody
 <a href="https://www.coursera.org/specializations/postgresql-for-everybody">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20michigan.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20michigan.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/database-design-postgresql">Database Design and Basic SQL in PostgreSQL</a></td>
                 <td align="center">15</td>
@@ -149,7 +149,7 @@ PostgreSQL for Everybody
                 <td rowspan=5 align=center>
 Data Warehousing for Business Intelligence
 <a href="https://www.coursera.org/specializations/data-warehousing">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/database-management">Database Management Essentials</a></td>
                 <td align="center">45</td>
@@ -174,7 +174,7 @@ Data Warehousing for Business Intelligence
                 <td rowspan=3 align=center>
 Database Design and Operational Business Intelligence
 <a href="https://www.coursera.org/specializations/data-design-operational-business-intellegence">Specialization</a> by University of California Irvine<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20irvine.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20irvine.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/nature-of-data-relational-database-design">The Nature of Data and Relational Database Design</a></td>
                 <td align="center">10</td>
@@ -191,7 +191,7 @@ Database Design and Operational Business Intelligence
                 <td rowspan=4 align=center>
 Java Database Connectivity
 <a href="https://www.coursera.org/specializations/java-database-connectivity">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/java-database-connectivity-introduction">Java Database Connectivity (JDBC) Introduction</a></td>
                 <td align="center">10</td>
@@ -212,7 +212,7 @@ Java Database Connectivity
                 <td rowspan=4 align=center>
 Spring Framework
 <a href="https://www.coursera.org/specializations/spring-framework">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/learnquest.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/spring-ecosystem-and-core">Spring - Ecosystem and Core</a></td>
                 <td align="center">15</td>
@@ -233,7 +233,7 @@ Spring Framework
                 <td rowspan=4 align=center>
 Modern Application Development with Java on AWS
 <a href="https://www.coursera.org/specializations/aws-java-serverless-development">Specialization</a> by Amazon Web Services<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/amazon%20web%20services.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
                 <td align="center">20</td>
@@ -254,7 +254,7 @@ Modern Application Development with Java on AWS
                 <td rowspan=4 align=center>
 Modern Application Development with Python on AWS
 <a href="https://www.coursera.org/specializations/aws-python-serverless-development">Specialization</a> by Amazon Web Services<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/amazon%20web%20services.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/amazon%20web%20services.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS Cloud Technical Essentials</a></td>
                 <td align="center">20</td>

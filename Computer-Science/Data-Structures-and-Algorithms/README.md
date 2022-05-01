@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/coursera.jpg">
 
 ## Data Structures and Algorithms Specializations
 
@@ -15,7 +15,7 @@
                 <td rowspan=5 align=center>
 Introduction to Discrete Mathematics for Computer Science
 <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/what-is-a-proof">Mathematical Thinking in Computer Science</a></td>
                 <td align="center">35</td>
@@ -39,7 +39,7 @@ Introduction to Discrete Mathematics for Computer Science
             <tr>
                 <td rowspan=1 align=center>
 Discrete Mathematics by Shanghai Jiao Tong University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/shanghai%20jiao%20tong%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/shanghai%20jiao%20tong%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/discrete-mathematics">Discrete Mathematics</a></td>
                 <td align="center">45</td>
@@ -48,7 +48,7 @@ Discrete Mathematics by Shanghai Jiao Tong University<br>
                 <td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/cs-fundamentals-1">Object-Oriented Data Structures in C++</a></td>
                 <td align="center">25</td>
@@ -64,7 +64,7 @@ Accelerated Computer Science Fundamentals
             <tr>
                 <td rowspan=1 align=center>
 Data Structures and Performance by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-structures-optimizing-performance">Data Structures and Performance</a></td>
                 <td align="center">45</td>
@@ -73,7 +73,7 @@ Data Structures and Performance by University of California San Diego<br>
                 <td rowspan=3 align=center>
 Competitive Programming by Moscow Institute of Physics and Technology
 <br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/c-for-competitive-programming">C/C++ for competitive programming</a></td>
                 <td align="center">110</td>
@@ -90,7 +90,7 @@ Competitive Programming by Moscow Institute of Physics and Technology
                 <td rowspan=4 align=center>
 Algorithms
 <a href="https://www.coursera.org/specializations/algorithms">Specialization</a> by Stanford University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/stanford%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/stanford%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/algorithms-divide-conquer">Divide and Conquer, Sorting and Searching, and Randomized Algorithms</a></td>
                 <td align="center">15</td>
@@ -111,7 +111,7 @@ Algorithms
                 <td rowspan=6 align=center>
 Data Structures and Algorithms
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/algorithmic-toolbox">Algorithmic Toolbox</a></td>
                 <td align="center">35</td>
@@ -140,7 +140,7 @@ Data Structures and Algorithms
                 <td rowspan=3 align=center>
 Data Structures and Algorithms Specialization
 <a href="https://www.coursera.org/specializations/boulder-data-structures-algorithms">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/algorithms-searching-sorting-indexing">Algorithms for Searching, Sorting, and Indexing</a></td>
                 <td align="center">35</td>
@@ -157,7 +157,7 @@ Data Structures and Algorithms Specialization
                 <td rowspan=3 align=center>
 Algorithms by Princeton University
 <br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/princeton%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/analysis-of-algorithms">Analysis of Algorithms</a></td>
                 <td align="center">20</td>
@@ -174,7 +174,7 @@ Algorithms by Princeton University
                 <td rowspan=2 align=center>
 Geometric Algorithms by EIT Digital
 <br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/eit%20digital.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/eit%20digital.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/approximation-algorithms">Approximation Algorithms</a></td>
                 <td align="center">15</td>
@@ -187,7 +187,7 @@ Geometric Algorithms by EIT Digital
                 <td rowspan=2 align=center>
 Computational Geometry by Saint Petersburg State University
 <br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/saint%20petersburg%20state%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/saint%20petersburg%20state%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computational-geometry">Computational Geometry</a></td>
                 <td align="center">20</td>
@@ -199,7 +199,7 @@ Computational Geometry by Saint Petersburg State University
             <tr>
                 <td rowspan=1 align=center>
 Computer Science: Algorithms, Theory, and Machines by Princeton University<br>
-<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/princeton%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/org-logos/princeton%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/cs-algorithms-theory-machines">Computer Science: Algorithms, Theory, and Machines</a></td>
                 <td align="center">20</td>
