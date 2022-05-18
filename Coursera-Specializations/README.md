@@ -7,13 +7,13 @@ Coursera Specializations for computer science students.
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
-## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Computer-Science/README.md) Specializations
+## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
 Computer Science Specializations for computer science students, which including the following main topics:
 
-#### - [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Computer-Science/README.md) Specializations
-#### - [Mathematics and Probability](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Computer-Science/README.md) Specializations
-#### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Computer-Science/README.md) Specializations
-#### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Computer-Science/README.md) Specializations
+#### - [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Mathematics and Probability](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
@@ -47,17 +47,17 @@ Data Science Specializations for computer science students, which including the 
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
-## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Operation-Research/README.md) Specializations
+## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
 Operation Research Specializations for computer science students, which including the following main topics:
 
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Operation-Research/README.md) Specializations
+#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/tree/master/Operation-Research/README.md) Specializations
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/tree/master/Operation-Research/README.md) Specializations
 #### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/tree/master/Operation-Research/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/Bioinformatics/README.md) Specializations
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
 Bioinformatics Specializations for computer science students, which including the following main topics:
 
 coming soon ...

@@ -14,126 +14,126 @@ SQL Tracks for computer science students, which including the following main top
 
 <br><br>
 
-## [SQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md) Tracks
+## [SQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [SQL Server](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md) Tracks
+## [SQL Server](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/SQL-Server/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [PostgreSQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md) Tracks
+## [PostgreSQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/PostgreSQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Oracle SQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md) Tracks
+## [Oracle SQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/SQL/Oracle-SQL/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/sql.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

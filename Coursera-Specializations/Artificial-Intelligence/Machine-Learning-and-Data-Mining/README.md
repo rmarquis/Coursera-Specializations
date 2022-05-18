@@ -15,7 +15,7 @@
                 <td rowspan=4 align=center>
 IBM Introduction to Machine Learning
 <a href="https://www.coursera.org/specializations/ibm-intro-machine-learning">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
                 <td align="center">10</td>
@@ -36,7 +36,7 @@ IBM Introduction to Machine Learning
                 <td rowspan=6 align=center>
 IBM Machine Learning Profession
 <a href="https://www.coursera.org/professional-certificates/ibm-machine-learning">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning">Exploratory Data Analysis for Machine Learning</a></td>
                 <td align="center">10</td>
@@ -65,7 +65,7 @@ IBM Machine Learning Profession
                 <td rowspan=4 align=center>
 AI for Scientific Research
 <a href="https://www.coursera.org/specializations/artificial-intelligence-scientific-research">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-science-and-scikit-learn-in-python">Introduction to Data Science and scikit-learn in Python</a></td>
                 <td align="center">15</td>
@@ -86,7 +86,7 @@ AI for Scientific Research
                 <td rowspan=4 align=center>
 Machine Learning
 <a href="https://www.coursera.org/specializations/machine-learning">Specialization</a> by University of Washington<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20washington.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20washington.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ml-foundations">Machine Learning Foundations: A Case Study Approach</a></td>
                 <td align="center">15</td>
@@ -107,7 +107,7 @@ Machine Learning
                 <td rowspan=4 align=center>
 Data Science Fundamentals
 <a href="https://www.coursera.org/specializations/data-science-fundamentals">Specialization</a> by University of California Irvine<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20irvine.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20california%20irvine.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/intro-analyticthinking-datascience-datamining">Intro to Analytic Thinking, Data Science, and Data Mining</a></td>
                 <td align="center">10</td>
@@ -128,7 +128,7 @@ Data Science Fundamentals
                 <td rowspan=5 align=center>
 Applied Data Science with Python
 <a href="https://www.coursera.org/specializations/data-science-python">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20michigan.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/python-data-analysis">Introduction to Data Science in Python</a></td>
                 <td align="center">15</td>
@@ -153,7 +153,7 @@ Applied Data Science with Python
                 <td rowspan=2 align=center>
 Machine Learning by University of London
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20london.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20london.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/uol-machine-learning-for-all">Machine Learning for All</a></td>
                 <td align="center">25</td>
@@ -166,7 +166,7 @@ Machine Learning by University of London
                 <td rowspan=4 align=center>
 Machine Learning: Algorithms in the Real World
 <a href="https://www.coursera.org/specializations/machine-learning-algorithms-real-world">Specialization</a> by Alberta Machine Intelligence Institute<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/alberta%20machine%20intelligence%20institute.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/machine-learning-applied">Introduction to Applied Machine Learning</a></td>
                 <td align="center">10</td>
@@ -187,7 +187,7 @@ Machine Learning: Algorithms in the Real World
                 <td rowspan=5 align=center>
 Recommender Systems
 <a href="https://www.coursera.org/specializations/recommender-systems">Specialization</a> by University of Minnesota<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20minnesota.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/recommender-systems-introduction">Introduction to Recommender Systems: Non-Personalized and Content-Based</a></td>
                 <td align="center">25</td>
@@ -212,7 +212,7 @@ Recommender Systems
                 <td rowspan=3 align=center>
 Machine Learning for Trading
 <a href="https://www.coursera.org/specializations/machine-learning-trading">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-trading-machine-learning-gcp">Introduction to Trading, Machine Learning & GCP</a></td>
                 <td align="center">10</td>
@@ -229,7 +229,7 @@ Machine Learning for Trading
                 <td rowspan=3 align=center>
 Data Analytics Foundations by University of Illinois at Urbana-Champaign
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/predictive-analytics-data-mining">Predictive Analytics and Data Mining</a></td>
                 <td align="center">25</td>
@@ -246,7 +246,7 @@ Data Analytics Foundations by University of Illinois at Urbana-Champaign
                 <td rowspan=9 align=center>
 Preparing for Google Cloud Certification: Machine Learning Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
                 <td align="center">15</td>
@@ -287,7 +287,7 @@ Preparing for Google Cloud Certification: Machine Learning Engineer Profession
                 <td rowspan=6 align=center>
 Data Mining
 <a href="https://www.coursera.org/specializations/data-mining">Specialization</a> by University of Illinois at Urbana-Champaign<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/datavisualization">Data Visualization</a></td>
                 <td align="center">15</td>
@@ -316,7 +316,7 @@ Data Mining
                 <td rowspan=5 align=center>
 Sports Performance Analytics
 <a href="https://www.coursera.org/specializations/sports-analytics">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20michigan.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/foundations-sports-analytics">Foundations of Sports Analytics: Data, Representation, and Models in Sports</a></td>
                 <td align="center">50</td>
@@ -340,7 +340,7 @@ Sports Performance Analytics
             <tr>
                 <td rowspan=1 align=center>
 Process Mining: Data science in Action by Eindhoven University of Technology<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/process-mining">Process Mining: Data science in Action</a></td>
                 <td align="center">25</td>
@@ -349,7 +349,7 @@ Process Mining: Data science in Action by Eindhoven University of Technology<br>
                 <td rowspan=3 align=center>
 Data Mining Foundations and Practice
 <a href="https://www.coursera.org/specializations/data-mining-foundations-practice">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-mining-pipeline">Data Mining Pipeline</a></td>
                 <td align="center">25</td>
@@ -366,7 +366,7 @@ Data Mining Foundations and Practice
                 <td rowspan=3 align=center>
 Probabilistic Graphical Models
 <a href="https://www.coursera.org/specializations/probabilistic-graphical-models">Specialization</a> by Stanford University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/stanford%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/probabilistic-graphical-models">Probabilistic Graphical Models 1: Representation</a></td>
                 <td align="center">70</td>
@@ -383,7 +383,7 @@ Probabilistic Graphical Models
                 <td rowspan=5 align=center>
 Geographic Information Systems (GIS)
 <a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20davis.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20california%20davis.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gis">Fundamentals of GIS</a></td>
                 <td align="center">30</td>
@@ -408,7 +408,7 @@ Geographic Information Systems (GIS)
                 <td rowspan=2 align=center>
 Practical Python for AI Coding Specialization
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/practical-python-for-ai-coding--preparation-for-coding">Practical Python for AI Coding 1</a></td>
                 <td align="center">15</td>
@@ -420,7 +420,7 @@ Practical Python for AI Coding Specialization
             <tr>
                 <td rowspan=1 align=center>
 Math for AI beginner part 1 Linear Algebra by Korea Advanced Institute of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/math-for-ai-beginner-part-1-linear-algebra">Math for AI beginner part 1 Linear Algebra</a></td>
                 <td align="center">10</td>

@@ -15,7 +15,7 @@
                 <td rowspan=3 align=center>
 TensorFlow 2 for Deep Learning
 <a href="https://www.coursera.org/specializations/tensorflow2-deeplearning">Specialization</a> by Imperial College London<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/imperial%20college%20london.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/imperial%20college%20london.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/getting-started-with-tensor-flow2">Getting started with TensorFlow 2</a></td>
                 <td align="center">30</td>
@@ -32,7 +32,7 @@ TensorFlow 2 for Deep Learning
                 <td rowspan=4 align=center>
 Digital Signal Processing
 <a href="https://www.coursera.org/specializations/digital-signal-processing">Specialization</a> by ecole polytechnique federale de lausanne<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/dsp1">Digital Signal Processing 1: Basic Concepts and Algorithms</a></td>
                 <td align="center">30</td>
@@ -52,7 +52,7 @@ Digital Signal Processing
             <tr>
                 <td rowspan=1 align=center>
 Introduction to Ordinary Differential Equations by Korea Advanced Institute of Science and Technology<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ordinary-differential-equations">Introduction to Ordinary Differential Equations</a></td>
                 <td align="center">15</td>
@@ -60,7 +60,7 @@ Introduction to Ordinary Differential Equations by Korea Advanced Institute of S
             <tr>
                 <td rowspan=1 align=center>
 Introduction to Complex Analysis by Wesleyan University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/wesleyan%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/wesleyan%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/complex-analysis">Introduction to Complex Analysis</a></td>
                 <td align="center">30</td>
@@ -68,7 +68,7 @@ Introduction to Complex Analysis by Wesleyan University<br>
             <tr>
                 <td rowspan=1 align=center>
 Information Theory by The Chinese University of Hong Kong<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/the%20chinese%20university%20of%20hong%20kong.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/the%20chinese%20university%20of%20hong%20kong.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/information-theory">Information Theory</a></td>
                 <td align="center">35</td>
@@ -76,7 +76,7 @@ Information Theory by The Chinese University of Hong Kong<br>
             <tr>
                 <td rowspan=1 align=center>
 Fundamentals of Digital Image and Video Processing by Northwestern University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/northwestern%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/northwestern%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/digital">Fundamentals of Digital Image and Video Processing</a></td>
                 <td align="center">35</td>
@@ -84,7 +84,7 @@ Fundamentals of Digital Image and Video Processing by Northwestern University<br
             <tr>
                 <td rowspan=1 align=center>
 Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Barcelona<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/universitat%20pompeu%20fabra%20of%20barcelona.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/audio-signal-processing">Audio Signal Processing for Music Applications</a></td>
                 <td align="center">55</td>
@@ -92,7 +92,7 @@ Audio Signal Processing for Music Applications by Universitat Pompeu Fabra of Ba
             <tr>
                 <td rowspan=1 align=center>
 Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/duke%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/image-processing">Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital</a></td>
                 <td align="center">20</td>
@@ -101,7 +101,7 @@ Image and Video Processing: From Mars to Hollywood with a Stop at the Hospital b
                 <td rowspan=3 align=center>
 Image Processing for Engineering and Science
 <a href="https://www.coursera.org/specializations/image-processing">Specialization</a> by MathWorks<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/mathworks.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/mathworks.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-image-processing">Introduction to Image Processing</a></td>
                 <td align="center">15</td>
@@ -118,7 +118,7 @@ Image Processing for Engineering and Science
                 <td rowspan=3 align=center>
 Basics in computer vision
 <a href="https://www.coursera.org/specializations/basics-in-computer-vision">Specialization</a> by National Research University Higher School of Economics<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/mathematics-for-computer-vision">Mathematics for computer vision</a></td>
                 <td align="center">25</td>
@@ -135,7 +135,7 @@ Basics in computer vision
                 <td rowspan=4 align=center>
 Computer Vision
 <a href="https://www.coursera.org/specializations/computervision">Specialization</a> by University of Buffalo<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20buffalo.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20buffalo.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computer-vision-basics">Computer Vision Basics</a></td>
                 <td align="center">10</td>
@@ -156,7 +156,7 @@ Computer Vision
                 <td rowspan=3 align=center>
 MATLAB Programming for Engineers and Scientists
 <a href="https://www.coursera.org/specializations/matlab-programming-engineers-scientists">Specialization</a> by Vanderbilt University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/vanderbilt%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/vanderbilt%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/matlab">Introduction to Programming with MATLAB</a></td>
                 <td align="center">40</td>
@@ -173,7 +173,7 @@ MATLAB Programming for Engineers and Scientists
                 <td rowspan=4 align=center>
 TensorFlow: Advanced Techniques
 <a href="https://www.coursera.org/specializations/tensorflow-advanced-techniques">Specialization</a> by deeplearning.ai<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/deeplearning.ai.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow">Custom Models, Layers, and Loss Functions with TensorFlow</a></td>
                 <td align="center">35</td>
@@ -193,7 +193,7 @@ TensorFlow: Advanced Techniques
             <tr>
                 <td rowspan=1 align=center>
 AWS Computer Vision: Getting Started with GluonCV by Amazon Web Services<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/amazon%20web%20services.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/aws-computer-vision-gluoncv">AWS Computer Vision: Getting Started with GluonCV</a></td>
                 <td align="center">35</td>
@@ -201,7 +201,7 @@ AWS Computer Vision: Getting Started with GluonCV by Amazon Web Services<br>
             <tr>
                 <td rowspan=1 align=center>
 Deep Learning Applications for Computer Vision by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/deep-learning-computer-vision">Deep Learning Applications for Computer Vision</a></td>
                 <td align="center">25</td>
@@ -210,7 +210,7 @@ Deep Learning Applications for Computer Vision by University of Colorado Boulder
                 <td rowspan=2 align=center>
 Distribution of OpenVINO toolkit for Computer Vision by Intel
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/intel.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/intel.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/intel-openvino">Introduction to Intel Distribution of OpenVINO toolkit for Computer Vision Applications</a></td>
                 <td align="center">5</td>
@@ -223,7 +223,7 @@ Distribution of OpenVINO toolkit for Computer Vision by Intel
                 <td rowspan=2 align=center>
 Introduction to Embedded Machine Learning by Edge Impulse
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/edge%20impulse.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/edge%20impulse.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-embedded-machine-learning">Introduction to Embedded Machine Learning</a></td>
                 <td align="center">20</td>
@@ -236,7 +236,7 @@ Introduction to Embedded Machine Learning by Edge Impulse
                 <td rowspan=5 align=center>
 First Principles of Computer Vision
 <a href="https://www.coursera.org/specializations/firstprinciplesofcomputervision">Specialization</a> by Columbia University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/columbia%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/columbia%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/cameraandimaging">Camera and Imaging</a></td>
                 <td align="center">15</td>
@@ -261,7 +261,7 @@ First Principles of Computer Vision
                 <td rowspan=3 align=center>
 Hands-on Machine Learning with Google Cloud Labs
 <a href="https://www.coursera.org/specializations/hands-on-machine-learning">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-machine-learning-language-processing">Introduction to Machine Learning: Language Processing</a></td>
                 <td align="center">5</td>
@@ -278,7 +278,7 @@ Hands-on Machine Learning with Google Cloud Labs
                 <td rowspan=5 align=center>
 Microsoft Azure AI Fundamentals AI-900 Exam Prep
 <a href="https://www.coursera.org/specializations/microsoft-azure-ai-900-ai-fundamentals">Specialization</a> by Microsoft<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/microsoft.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/microsoft.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/artificial-intelligence-microsoft-azure">Artificial Intelligence on Microsoft Azure</a></td>
                 <td align="center">5</td>
