@@ -15,217 +15,217 @@ Python Machine Learning Tracks for computer science students, which including th
 
 <br><br>
 
-## [Machine Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md) Tracks
+## [Machine Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Machine-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md) Tracks
+## [Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Natural Language Processing](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md) Tracks
+## [Natural Language Processing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Natural-Language-Processing-and-Text-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Applied Finance](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md) Tracks
+## [Applied Finance](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Applied-Finance/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Data Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md) Tracks
+## [Data Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/Python-Machine-Learning/Data-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/blob/master/org-logos/python.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

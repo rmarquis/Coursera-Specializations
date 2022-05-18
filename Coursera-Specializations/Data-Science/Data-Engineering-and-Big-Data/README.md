@@ -15,7 +15,7 @@
                 <td rowspan=6 align=center>
 Big Data
 <a href="https://www.coursera.org/specializations/big-data">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/big-data-introduction">Introduction to Big Data</a></td>
                 <td align="center">20</td>
@@ -44,7 +44,7 @@ Big Data
                 <td rowspan=3 align=center>
 Modern Big Data Analysis with SQL
 <a href="https://www.coursera.org/specializations/cloudera-big-data-analysis-sql">Specialization</a> by Cloudera<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/cloudera.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/cloudera.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/foundations-big-data-analysis-sql">Foundations for Big Data Analysis with SQL</a></td>
                 <td align="center">15</td>
@@ -61,7 +61,7 @@ Modern Big Data Analysis with SQL
                 <td rowspan=5 align=center>
 Functional Programming in Scala
 <a href="https://www.coursera.org/specializations/scala">Specialization</a> by ecole polytechnique federale de lausanne<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/progfun1">Functional Programming Principles in Scala</a></td>
                 <td align="center">45</td>
@@ -86,7 +86,7 @@ Functional Programming in Scala
                 <td rowspan=5 align=center>
 Big Data for Data Engineers
 <a href="https://www.coursera.org/specializations/big-data-engineering">Specialization</a> by Yandex<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/yandex.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/yandex.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/big-data-essentials">Big Data Essentials: HDFS, MapReduce and Spark RDD</a></td>
                 <td align="center">40</td>
@@ -111,7 +111,7 @@ Big Data for Data Engineers
                 <td rowspan=5 align=center>
 Data Engineering, Big Data, and Machine Learning on GCP
 <a href="https://www.coursera.org/specializations/gcp-data-machine-learning">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
                 <td align="center">15</td>
@@ -136,7 +136,7 @@ Data Engineering, Big Data, and Machine Learning on GCP
                 <td rowspan=5 align=center>
 Data Engineering with GCP Profession
 <a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Platform Big Data and Machine Learning Fundamentals</a></td>
                 <td align="center">15</td>
@@ -161,7 +161,7 @@ Data Engineering with GCP Profession
                 <td rowspan=5 align=center>
 Data Engineering Foundations
 <a href="https://www.coursera.org/specializations/data-engineering-foundations">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-engineering">Introduction to Data Engineering</a></td>
                 <td align="center">10</td>
@@ -186,7 +186,7 @@ Data Engineering Foundations
                 <td rowspan=13 align=center>
 IBM Data Engineering Profession
 <a href="https://www.coursera.org/professional-certificates/ibm-data-engineer">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-engineering">Introduction to Data Engineering</a></td>
                 <td align="center">10</td>
@@ -243,7 +243,7 @@ IBM Data Engineering Profession
                 <td rowspan=2 align=center>
 Big data and Language by Korea Advanced Institute of Science and Technology
 <br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/korea%20advanced%20institute%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/big-data-language-1">Big data and Language 1</a></td>
                 <td align="center">5</td>
@@ -256,7 +256,7 @@ Big data and Language by Korea Advanced Institute of Science and Technology
                 <td rowspan=4 align=center>
 From Data to Insights with Google Cloud Platform
 <a href="https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gcp-exploring-preparing-data-bigquery">Exploring and Preparing your Data with BigQuery</a></td>
                 <td align="center">15</td>
@@ -277,7 +277,7 @@ From Data to Insights with Google Cloud Platform
                 <td rowspan=4 align=center>
 Key Technologies in Data Analytics
 <a href="https://www.coursera.org/specializations/key-technologies-data-analytics">Specialization</a> by LearnQuest<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/learnquest.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/fundamentals-of-data-analysis">Fundamentals of Data Analysis</a></td>
                 <td align="center">20</td>
@@ -298,7 +298,7 @@ Key Technologies in Data Analytics
                 <td rowspan=3 align=center>
 Statistical Modeling for Data Science Applications
 <a href="https://www.coursera.org/specializations/statistical-modeling-for-data-science-applications">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/modern-regression-analysis-in-r">Modern Regression Analysis in R</a></td>
                 <td align="center">45</td>
@@ -315,7 +315,7 @@ Statistical Modeling for Data Science Applications
                 <td rowspan=6 align=center>
 Preparing for Google Cloud Certification: Cloud Data Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/gcp-data-engineering">Specialization</a> by Google Cloud<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/google%20cloud.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/gcp-big-data-ml-fundamentals">Google Cloud Big Data and Machine Learning Fundamentals</a></td>
                 <td align="center">15</td>
@@ -344,7 +344,7 @@ Preparing for Google Cloud Certification: Cloud Data Engineer Profession
                 <td rowspan=4 align=center>
 BI Foundations with SQL, ETL and Data Warehousing
 <a href="https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting">Hands-on Introduction to Linux Commands and Shell Scripting</a></td>
                 <td align="center">5</td>
@@ -365,7 +365,7 @@ BI Foundations with SQL, ETL and Data Warehousing
                 <td rowspan=3 align=center>
 NoSQL, Big Data, and Spark Foundations
 <a href="https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-nosql-databases">Introduction to NoSQL Databases</a></td>
                 <td align="center">20</td>
@@ -382,7 +382,7 @@ NoSQL, Big Data, and Spark Foundations
                 <td rowspan=7 align=center>
 IBM Data Warehouse Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/data-warehouse-engineering">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-engineering">Introduction to Data Engineering</a></td>
                 <td align="center">10</td>
