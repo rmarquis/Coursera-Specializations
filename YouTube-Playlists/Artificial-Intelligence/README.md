@@ -14,277 +14,277 @@
 
 <br><br>
 
-## [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md) Playlists
+## [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Artificial-Intelligence/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md) Playlists
+## [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md) Playlists
+## [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md) Playlists
+## [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md) Playlists
+## [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/YouTube-Playlists/blob/master/org-logos/image.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

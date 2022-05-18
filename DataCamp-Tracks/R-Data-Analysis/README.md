@@ -15,217 +15,217 @@ R Data Analysis Tracks for computer science students, which including the follow
 
 <br><br>
 
-## [Basic Programming](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md) Tracks
+## [Basic Programming](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Basic-Programming/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Probability and Statistics](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md) Tracks
+## [Probability and Statistics](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Probability-and-Statistics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Data Preprocessing](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md) Tracks
+## [Data Preprocessing](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Preprocessing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Data Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md) Tracks
+## [Data Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Data Analysis](https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md) Tracks
+## [Data Analysis](https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/R-Data-Analysis/Data-Analysis/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/DataCamp-Tracks/blob/master/org-logos/r.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

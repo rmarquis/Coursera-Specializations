@@ -15,7 +15,7 @@
                 <td rowspan=5 align=center>
 Statistics with R
 <a href="https://www.coursera.org/specializations/statistics">Specialization</a> by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/duke%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/duke%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/probability-intro">Introduction to Probability and Data</a></td>
                 <td align="center">15</td>
@@ -40,7 +40,7 @@ Statistics with R
                 <td rowspan=5 align=center>
 Executive Data Science
 <a href="https://www.coursera.org/specializations/executive-data-science">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-science-course">A Crash Course in Data Science</a></td>
                 <td align="center">5</td>
@@ -65,7 +65,7 @@ Executive Data Science
                 <td rowspan=5 align=center>
 Data Science: Foundations using R
 <a href="https://www.coursera.org/specializations/data-science-foundations-r">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientists Toolbox</a></td>
                 <td align="center">10</td>
@@ -90,7 +90,7 @@ Data Science: Foundations using R
                 <td rowspan=10 align=center>
 Data Science
 <a href="https://www.coursera.org/specializations/jhu-data-science">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-scientists-tools">The Data Scientists Toolbox</a></td>
                 <td align="center">10</td>
@@ -135,7 +135,7 @@ Data Science
                 <td rowspan=5 align=center>
 Data Science: Statistics and Machine Learning
 <a href="https://www.coursera.org/specializations/data-science-statistics-machine-learning">Specialization</a> by Johns Hopkins University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/statistical-inference">Statistical Inference</a></td>
                 <td align="center">55</td>
@@ -160,7 +160,7 @@ Data Science: Statistics and Machine Learning
                 <td rowspan=4 align=center>
 Practical Data Science with MATLAB
 <a href="https://www.coursera.org/specializations/practical-data-science-matlab">Specialization</a> by MathWorks<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/mathworks.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/mathworks.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/exploratory-data-analysis-matlab">Exploratory Data Analysis with MATLAB</a></td>
                 <td align="center">20</td>
@@ -181,7 +181,7 @@ Practical Data Science with MATLAB
                 <td rowspan=4 align=center>
 Data Science at Scale
 <a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20washington.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20washington.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
                 <td align="center">25</td>
@@ -202,7 +202,7 @@ Data Science at Scale
                 <td rowspan=5 align=center>
 Data Science Fundamentals with Python and SQL
 <a href="https://www.coursera.org/specializations/data-science-fundamentals-python-sql">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/open-source-tools-for-data-science">Tools for Data Science</a></td>
                 <td align="center">25</td>
@@ -227,7 +227,7 @@ Data Science Fundamentals with Python and SQL
                 <td rowspan=5 align=center>
 Applied Data Science with R
 <a href="https://www.coursera.org/specializations/applied-data-science-r">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introducton-r-programming-data-science">Introduction to R Programming for Data Science</a></td>
                 <td align="center">10</td>
@@ -252,7 +252,7 @@ Applied Data Science with R
                 <td rowspan=8 align=center>
 IBM Data Analyst Profession
 <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
                 <td align="center">15</td>
@@ -289,7 +289,7 @@ IBM Data Analyst Profession
                 <td rowspan=8 align=center>
 IBM Data Analytics with Excel and R Profession
 <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-data-analytics">Introduction to Data Analytics</a></td>
                 <td align="center">15</td>
@@ -326,7 +326,7 @@ IBM Data Analytics with Excel and R Profession
                 <td rowspan=4 align=center>
 Introduction to Data Science
 <a href="https://www.coursera.org/specializations/introduction-data-science">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
                 <td align="center">10</td>
@@ -347,7 +347,7 @@ Introduction to Data Science
                 <td rowspan=9 align=center>
 IBM Data Science Profession
 <a href="https://www.coursera.org/specializations/ibm-data-science-professional-certificate">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/what-is-datascience">What is Data Science?</a></td>
                 <td align="center">10</td>
@@ -388,7 +388,7 @@ IBM Data Science Profession
                 <td rowspan=4 align=center>
 Advanced Data Science with IBM
 <a href="https://www.coursera.org/specializations/advanced-data-science-ibm">Specialization</a> by IBM<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/ibm.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/ds">Fundamentals of Scalable Data Science</a></td>
                 <td align="center">20</td>
@@ -409,7 +409,7 @@ Advanced Data Science with IBM
                 <td rowspan=5 align=center>
 Computational Social Science
 <a href="https://www.coursera.org/specializations/computational-social-science-ucdavis">Specialization</a> by University of California Davis<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20davis.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20california%20davis.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computational-social-science-methods">Computational Social Science Methods</a></td>
                 <td align="center">15</td>
@@ -434,7 +434,7 @@ Computational Social Science
                 <td rowspan=4 align=center>
 Information Systems
 <a href="https://www.coursera.org/specializations/information-systems">Specialization</a> by University of Minnesota<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20minnesota.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20minnesota.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/is-it-governance">IS/IT Governance</a></td>
                 <td align="center">10</td>
@@ -455,7 +455,7 @@ Information Systems
                 <td rowspan=6 align=center>
 IBM & Darden Digital Strategy
 <a href="https://www.coursera.org/specializations/digital-strategy">Specialization</a> by University of Virginia Darden School Foundation<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20virginia%20darden%20school%20foundation.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20virginia%20darden%20school%20foundation.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/strategists-challenge">The Strategist's Challenge</a></td>
                 <td align="center">5</td>
@@ -484,7 +484,7 @@ IBM & Darden Digital Strategy
                 <td rowspan=4 align=center>
 Data Science at Scale
 <a href="https://www.coursera.org/specializations/data-science">Specialization</a> by University of Washington<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20washington.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20washington.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-manipulation">Data Manipulation at Scale: Systems and Algorithms</a></td>
                 <td align="center">20</td>
@@ -505,7 +505,7 @@ Data Science at Scale
                 <td rowspan=4 align=center>
 Vital Skills for Data Science
 <a href="https://www.coursera.org/specializations/vital-skills-for-data-science">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/data-science-as-a-field">Data Science as a Field</a></td>
                 <td align="center">15</td>
@@ -526,7 +526,7 @@ Vital Skills for Data Science
                 <td rowspan=5 align=center>
 Microsoft Azure Data Scientist Associate - DP-100 Test Prep
 <a href="https://www.coursera.org/specializations/azure-data-scientist">Specialization</a> by Microsoft<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/microsoft.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/Coursera-Specializations/blob/master/org-logos/microsoft.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/create-machine-learning-models-in-microsoft-azure">Create Machine Learning Models in Microsoft Azure</a></td>
                 <td align="center">15</td>
