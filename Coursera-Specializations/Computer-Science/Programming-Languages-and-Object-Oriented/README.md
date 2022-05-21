@@ -15,7 +15,7 @@
                 <td rowspan=3 align=center>
 Introduction to Computer Science and Programming
 <a href="https://www.coursera.org/specializations/introduction-computer-science-programming">Specialization</a> by University of London<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20london.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20london.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/introduction-to-computer-programming">Introduction to Computer Programming</a></td>
                 <td align="center">20</td>
@@ -32,7 +32,7 @@ Introduction to Computer Science and Programming
                 <td rowspan=6 align=center>
 Computational Thinking & Block Programming in K-12 Education
 <a href="https://www.coursera.org/specializations/computational-thinking-block-programming-k12-education">Specialization</a> by University of California San Diego<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/computational-thinking-k12-educators-sequences-loops">Sequences and Loops</a></td>
                 <td align="center">15</td>
@@ -61,7 +61,7 @@ Computational Thinking & Block Programming in K-12 Education
                 <td rowspan=4 align=center>
 Introduction to Scripting in Python
 <a href="https://www.coursera.org/specializations/introduction-scripting-in-python">Specialization</a> by Rice University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/python-programming">Python Programming Essentials</a></td>
                 <td align="center">10</td>
@@ -82,7 +82,7 @@ Introduction to Scripting in Python
                 <td rowspan=5 align=center>
 Python 3 Programming
 <a href="https://www.coursera.org/specializations/python-3-programming">Specialization</a> by University of Michigan<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/python-basics">Python Basics</a></td>
                 <td align="center">35</td>
@@ -107,7 +107,7 @@ Python 3 Programming
                 <td rowspan=7 align=center>
 Fundamentals of Computing
 <a href="https://www.coursera.org/specializations/computer-fundamentals">Specialization</a> by Rice University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/interactive-python-1">An Introduction to Interactive Programming in Python (Part 1)</a></td>
                 <td align="center">25</td>
@@ -140,7 +140,7 @@ Fundamentals of Computing
                 <td rowspan=4 align=center>
 Programming in Python: A Hands-on Introduction
 <a href="https://www.coursera.org/specializations/hands-on-python">Specialization</a> by Codio<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/codio.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/codio.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/codio-python-basics">Python Basics: Selection and Iteration</a></td>
                 <td align="center">10</td>
@@ -161,7 +161,7 @@ Programming in Python: A Hands-on Introduction
                 <td rowspan=4 align=center>
 Introductory C Programming
 <a href="https://www.coursera.org/specializations/c-programming">Specialization</a> by Duke University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a></td>
                 <td align="center">15</td>
@@ -182,7 +182,7 @@ Introductory C Programming
                 <td rowspan=4 align=center>
 Computational Thinking with Beginning C Programming
 <a href="https://www.coursera.org/specializations/computational-thinking-c-programming">Specialization</a> by University of Colorado Boulder<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/algorithms-data-collection-code">Algorithms, Data Collection, and Starting to Code</a></td>
                 <td align="center">15</td>
@@ -203,7 +203,7 @@ Computational Thinking with Beginning C Programming
                 <td rowspan=4 align=center>
 Coding for Everyone: C and C++
 <a href="https://www.coursera.org/specializations/coding-for-everyone">Specialization</a> by University of California Santa Cruz<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/c-for-everyone">C for Everyone: Programming Fundamentals</a></td>
                 <td align="center">25</td>
@@ -224,7 +224,7 @@ Coding for Everyone: C and C++
                 <td rowspan=4 align=center>
 Programming in C++: A Hands-on Introduction
 <a href="https://www.coursera.org/specializations/hands-on-cpp">Specialization</a> by Codio<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/codio.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/codio.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/codio-cpp-basics">C++ Basics: Selection and Iteration</a></td>
                 <td align="center">10</td>
@@ -244,7 +244,7 @@ Programming in C++: A Hands-on Introduction
             <tr>
                 <td rowspan=1 align=center>
 Computer Science: Programming with a Purpose by Princeton University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/princeton%20university.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/princeton%20university.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/cs-programming-java">Computer Science: Programming with a Purpose</a></td>
                 <td align="center">90</td>
@@ -253,7 +253,7 @@ Computer Science: Programming with a Purpose by Princeton University<br>
                 <td rowspan=3 align=center>
 Accelerated Computer Science Fundamentals
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>
                 <td><a href="https://www.coursera.org/learn/cs-fundamentals-1">Object-Oriented Data Structures in C++</a></td>
                 <td align="center">25</td>
