@@ -1,9 +1,9 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/datacamp.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/datacamp.jpg">
 
 # Shell and Git Tracks
 
 <br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/org-logos/git.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/git.jpg">
 <br><br>
 
 ## Git
