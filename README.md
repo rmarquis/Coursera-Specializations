@@ -33,7 +33,7 @@ eLearning Platforms for computer science students.
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/org-logos/udemy.jpg"></img>
 
-## - [Udemy](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Courses/README.md)
+## - [Udemy](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/org-logos/udacity.jpg"></img>
