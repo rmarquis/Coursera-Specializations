@@ -41,7 +41,7 @@ eLearning Platforms for computer science students.
 ## - [Udacity Nanodegrees](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md)
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/codeacademy.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg"></img>
 
 ## - [Edx Programs](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md)
 
