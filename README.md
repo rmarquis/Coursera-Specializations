@@ -23,7 +23,7 @@ eLearning Platforms for computer science students.
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/globalaihub.jpg"></img>
 
-## - [Global AI Hub Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Global-AI-Hub-Courses/README.md)
+## - [Global AI Hub Learning Paths](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Global-AI-Hub-Learning-Paths/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg"></img>
