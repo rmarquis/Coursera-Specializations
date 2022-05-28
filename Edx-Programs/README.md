@@ -45,6 +45,16 @@ Data Science Programs for computer science students, which including the followi
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+Bioinformatics Programs for computer science students, which including the following main topics:
+
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Operation-Research/README.md) Programs
@@ -54,10 +64,3 @@ Operation Research Programs for computer science students, which including the f
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs
 #### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-Bioinformatics Programs for computer science students, which including the following main topics:
-
-coming soon ...
