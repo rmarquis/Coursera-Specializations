@@ -49,6 +49,17 @@ Data Science Playlists for computer science students, which including the follow
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+Bioinformatics Playlists for computer science students, which including the following main topics:
+
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
@@ -59,10 +70,3 @@ Operation Research Playlists for computer science students, which including the 
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
 #### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-Bioinformatics Playlists for computer science students, which including the following main topics:
-
-coming soon ...
