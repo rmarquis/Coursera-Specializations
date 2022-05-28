@@ -49,6 +49,17 @@ Data Science Courses for computer science students, which including the followin
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Data-Science/README.md) Courses
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Data-Science/README.md) Courses
 
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+
+## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+Bioinformatics Courses for computer science students, which including the following main topics:
+
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Operation-Research/README.md) Courses
@@ -59,10 +70,3 @@ Operation Research Courses for computer science students, which including the fo
 #### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Operation-Research/README.md) Courses
 #### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Operation-Research/README.md) Courses
 #### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Operation-Research/README.md) Courses
-
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
-Bioinformatics Courses for computer science students, which including the following main topics:
-
-coming soon ...
