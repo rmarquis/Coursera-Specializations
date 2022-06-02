@@ -21,7 +21,7 @@ Computer Science Courses for computer science students, which including the foll
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 Software Engineering Courses for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
@@ -32,7 +32,7 @@ Software Engineering Courses for computer science students, which including the 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 Artificial Intelligence Courses for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
+#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 #### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
