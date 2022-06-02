@@ -1,6 +1,6 @@
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg"></img>
 
-## Artificial Intelligence Specializations
+## Artificial Intelligence Algorithms Specializations
 
 <table>
     <thead>
