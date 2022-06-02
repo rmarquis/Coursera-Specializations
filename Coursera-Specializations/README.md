@@ -20,7 +20,7 @@ Computer Science Specializations for computer science students, which including 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 Software Engineering Specializations for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
@@ -30,7 +30,7 @@ Software Engineering Specializations for computer science students, which includ
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 Artificial Intelligence Specializations for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
