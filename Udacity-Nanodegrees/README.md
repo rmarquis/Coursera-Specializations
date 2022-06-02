@@ -20,7 +20,7 @@ Computer Science Nanodegrees for computer science students, which including the 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 Software Engineering Nanodegrees for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
@@ -30,7 +30,7 @@ Software Engineering Nanodegrees for computer science students, which including 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
 Artificial Intelligence Nanodegrees for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
+#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Artificial-Intelligence/README.md) Nanodegrees
