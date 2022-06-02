@@ -21,7 +21,7 @@ Computer Science Playlists for computer science students, which including the fo
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 Software Engineering Playlists for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
@@ -32,7 +32,7 @@ Software Engineering Playlists for computer science students, which including th
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 Artificial Intelligence Playlists for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
+#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 #### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
