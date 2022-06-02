@@ -6,14 +6,14 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Software Engineering Specializations](#Software-Engineering-Specializations)
+  * [Fundamentals of Software Engineering Specializations](#Fundamentals-of-Software-Engineering-Specializations)
   * [Database Systems and Warehousing Specializations](#Database-Systems-and-Warehousing-Specializations)
   * [Continuous Delivery and DevOps Specializations](#Continuous-Delivery-and-DevOps-Specializations)
   * [Web/Mobile/Game Development Specializations](#WebMobileGame-Development-Specializations)
 
 <br><br>
 
-## [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md) Specializations
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md) Specializations
 
 <table>
     <tbody>
