@@ -20,7 +20,7 @@ Computer Science Programs for computer science students, which including the fol
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 Software Engineering Programs for computer science students, which including the following main topics:
 
-#### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
+#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
@@ -30,7 +30,7 @@ Software Engineering Programs for computer science students, which including the
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 Artificial Intelligence Programs for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
+#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 #### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
