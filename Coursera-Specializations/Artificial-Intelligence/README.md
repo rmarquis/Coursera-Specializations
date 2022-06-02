@@ -6,14 +6,14 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Artificial Intelligence Specializations](#Artificial-Intelligence-Specializations-1)
+  * [Artificial Intelligence Algorithms Specializations](#Artificial-Intelligence-Specializations-1)
   * [Machine Learning and Data Mining Specializations](#Machine-Learning-and-Data-Mining-Specializations)
   * [Neural Networks and Deep Learning Specializations](#Neural-Networks-and-Deep-Learning-Specializations)
   * [Image Processing and Computer Vision Specializations](#Image-Processing-and-Computer-Vision-Specializations)
 
 <br><br>
 
-## [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md) Specializations
+## [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md) Specializations
 
 <table>
     <tbody>
