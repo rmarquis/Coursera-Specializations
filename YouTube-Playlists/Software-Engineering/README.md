@@ -6,7 +6,7 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Software Engineering Playlists](#Software-Engineering-Playlists-1)
+  * [Fundamentals of Software Engineering Playlists](#Fundamentals-of-Software-Engineering-Playlists-1)
   * [Distributed Systems and Cloud Computing Playlists](#Distributed-Systems-and-Cloud-Computing-Playlists)
   * [Database Systems and Warehousing Playlists](#Database-Systems-and-Warehousing-Playlists)
   * [Continuous Delivery and DevOps Playlists](#Continuous-Delivery-and-DevOps-Playlists)
@@ -14,7 +14,7 @@
 
 <br><br>
 
-## [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md) Playlists
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md) Playlists
 
 <table>
     <tbody>
