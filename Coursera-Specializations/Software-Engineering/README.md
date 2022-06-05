@@ -13,15 +13,15 @@
 
 <br><br>
 
-## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md) Specializations
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md) Specializations
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Requirements Engineering: Secure Software Specifications Specialization by University of Colorado Boulder</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Fundamentals of Computer Network Security Specialization by University of Colorado Boulder</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Java Programming and Software Engineering Fundamentals Specialization by Duke University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Software Design and Architecture Specialization by University of Alberta</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Requirements Engineering: Secure Software Specifications Specialization by University of Colorado Boulder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Fundamentals of Computer Network Security Specialization by University of Colorado Boulder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Java Programming and Software Engineering Fundamentals Specialization by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Software Design and Architecture Specialization by University of Alberta</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
@@ -30,10 +30,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20alberta.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Secure Software Design Specialization by University of Colorado Boulder</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Software Development Lifecycle Specialization by University of Minnesota</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Introduction to Application Development Specialization by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Secure Software Design Specialization by University of Colorado Boulder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Software Development Lifecycle Specialization by University of Minnesota</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Introduction to Application Development Specialization by LearnQuest</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
@@ -42,10 +42,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Software Testing and Automation Specialization by University of Minnesota</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Test-Driven Development Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Introduction to Computer Information Systems Specialization by University of California Irvine</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Software-Engineering/README.md">Information Systems Specialization by University of Minnesota</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Software Testing and Automation Specialization by University of Minnesota</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Test-Driven Development Specialization by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Introduction to Computer Information Systems Specialization by University of California Irvine</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Information Systems Specialization by University of Minnesota</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="70%"></img></td>

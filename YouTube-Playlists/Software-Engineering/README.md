@@ -14,15 +14,15 @@
 
 <br><br>
 
-## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md) Playlists
+## [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
@@ -31,10 +31,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
@@ -43,10 +43,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
@@ -55,10 +55,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="70%"></img></td>

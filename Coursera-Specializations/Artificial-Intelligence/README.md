@@ -13,15 +13,15 @@
 
 <br><br>
 
-## [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md) Specializations
+## [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md) Specializations
 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">AI Product Management Specialization by Duke University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Introduction to Logic and Critical Thinking Specialization by Duke University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">AI For Everyone by deeplearning.ai</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Creative Thinking: Techniques and Tools for Success by Imperial College London</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">AI Product Management Specialization by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Introduction to Logic and Critical Thinking Specialization by Duke University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">AI For Everyone by deeplearning.ai</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Creative Thinking: Techniques and Tools for Success by Imperial College London</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="70%"></img></td>
@@ -30,10 +30,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/imperial%20college%20london.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Getting Started with AWS Machine Learning by Amazon Web Services</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Machine Learning by Stanford University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Artificial Intelligence (AI) Education for Teachers by Macquarie University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Getting Started with AWS Machine Learning by Amazon Web Services</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Machine Learning by Stanford University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Artificial Intelligence (AI) Education for Teachers by Macquarie University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="70%"></img></td>
@@ -42,10 +42,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Ethics in the Age of AI Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Machine Learning for Supply Chains Specialization by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Developing AI Applications on Azure by LearnQuest</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">Mind and Machine Specialization by University of Colorado Boulder</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Ethics in the Age of AI Specialization by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Machine Learning for Supply Chains Specialization by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Developing AI Applications on Azure by LearnQuest</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Mind and Machine Specialization by University of Colorado Boulder</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="70%"></img></td>
@@ -54,10 +54,10 @@
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">AI in Healthcare Specialization by Stanford University</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">AI Foundations for Everyone Specialization by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">IBM Applied AI Professional Certificate by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">AI in Healthcare Specialization by Stanford University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">AI Foundations for Everyone Specialization by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">IBM Applied AI Professional Certificate by IBM</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="70%"></img></td>
