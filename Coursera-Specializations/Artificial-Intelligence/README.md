@@ -6,7 +6,7 @@
 <img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
-  * [Artificial Intelligence Algorithms Specializations](#Artificial-Intelligence-Specializations)
+  * [Artificial Intelligence Algorithms Specializations](#Artificial-Intelligence-Algorithms-Specializations)
   * [Machine Learning and Data Mining Specializations](#Machine-Learning-and-Data-Mining-Specializations)
   * [Neural Networks and Deep Learning Specializations](#Neural-Networks-and-Deep-Learning-Specializations)
   * [Image Processing and Computer Vision Specializations](#Image-Processing-and-Computer-Vision-Specializations)
