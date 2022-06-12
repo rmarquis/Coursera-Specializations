@@ -54,11 +54,11 @@ Data Science Playlists for computer science students, which including the follow
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
 Bioinformatics Playlists for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Data Analysis and Visualization in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
