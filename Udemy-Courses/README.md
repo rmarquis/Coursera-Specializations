@@ -54,11 +54,11 @@ Data Science Courses for computer science students, which including the followin
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
 Bioinformatics Courses for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Data Analysis and Visualization in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
