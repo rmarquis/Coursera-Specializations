@@ -50,10 +50,10 @@ Data Science Nanodegrees for computer science students, which including the foll
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
 Bioinformatics Nanodegrees for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
