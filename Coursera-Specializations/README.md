@@ -50,10 +50,10 @@ Data Science Specializations for computer science students, which including the 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
 Bioinformatics Specializations for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
