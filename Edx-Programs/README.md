@@ -50,10 +50,10 @@ Data Science Programs for computer science students, which including the followi
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
 Bioinformatics Programs for computer science students, which including the following main topics:
 
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Template](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
+#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
 
 <img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
