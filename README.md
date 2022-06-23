@@ -93,19 +93,19 @@ eLearning Platforms for computer science students.
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/freecodecamp.jpg"></img>
 
-## - [freeCodeCamp Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/freeCodeCamp-Courses/README.md)
+## [`freeCodeCamp Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/freeCodeCamp-Courses/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/codeacademy.jpg"></img>
 
-## - [codecademy Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/codecademy-Courses/README.md)
+## [`codecademy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/codecademy-Courses/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/linkedinlearning.jpg"></img>
 
-## - [LinkedIn Learning Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/LinkedIn-Learning-Courses/README.md)
+## [`LinkedIn Learning Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/LinkedIn-Learning-Courses/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/futurelearn.jpg"></img>
 
-## - [Future Learn Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Future-Learn-Courses/README.md)
+## [`Future Learn Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Future-Learn-Courses/README.md)
