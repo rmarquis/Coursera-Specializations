@@ -31,13 +31,13 @@
         </tr>
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Getting Started with AWS Machine Learning by Amazon Web Services</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Machine Learning by Stanford University</a></td>
+<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">AI for Scientific Research Specialization by LearnQuest</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Artificial Intelligence (AI) Education for Teachers by Macquarie University</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">IBM AI Enterprise Workflow Specialization by IBM</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/macquarie%20university.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="70%"></img></td>
         </tr>
@@ -75,13 +75,13 @@
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">IBM Introduction to Machine Learning Specialization by IBM</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">IBM Machine Learning Professional Certificate by IBM</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">AI for Scientific Research Specialization by LearnQuest</a></td>
+ <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Machine Learning Specialization by DeepLearning.AI</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Machine Learning Specialization by University of Washington</a></td>
         </tr>
         <tr>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="70%"></img></td>
+<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="70%"></img></td>
 <td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20washington.jpg" width="70%"></img></td>
         </tr>
         <tr>
