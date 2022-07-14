@@ -3,7 +3,7 @@
 # Computer Science Playlists
 
 <br>
-<img align="right" width="90" height="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Programming Languages and Object Oriented Playlists](#Programming-Languages-and-Object-Oriented-Playlists)

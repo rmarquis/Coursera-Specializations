@@ -5,7 +5,7 @@ Udemy Courses for computer science students.
 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Computer-Science/README.md) Courses
 Computer Science Courses for computer science students, which including the following main topics:
@@ -16,7 +16,7 @@ Computer Science Courses for computer science students, which including the foll
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Computer-Science/README.md) Courses
 #### - [Theory of Computation and Compiler Design](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Computer-Science/README.md) Courses
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 Software Engineering Courses for computer science students, which including the following main topics:
@@ -27,7 +27,7 @@ Software Engineering Courses for computer science students, which including the 
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 Artificial Intelligence Courses for computer science students, which including the following main topics:
@@ -38,7 +38,7 @@ Artificial Intelligence Courses for computer science students, which including t
 #### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Artificial-Intelligence/README.md) Courses
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
 ## [`Data Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Data-Science/README.md) Courses
 Data Science Courses for computer science students, which including the following main topics:
@@ -49,7 +49,7 @@ Data Science Courses for computer science students, which including the followin
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Data-Science/README.md) Courses
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Data-Science/README.md) Courses
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
 Bioinformatics Courses for computer science students, which including the following main topics:
@@ -60,7 +60,7 @@ Bioinformatics Courses for computer science students, which including the follow
 #### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
 #### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Bioinformatics/README.md) Courses
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Operation-Research/README.md) Courses
 Operation Research Courses for computer science students, which including the following main topics:

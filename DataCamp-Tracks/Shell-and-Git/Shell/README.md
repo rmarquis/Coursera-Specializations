@@ -3,7 +3,7 @@
 # Shell and Git Tracks
 
 <br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/shell.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/shell.jpg">
 <br><br>
 
 ## Shell

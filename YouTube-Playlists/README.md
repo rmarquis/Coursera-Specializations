@@ -5,7 +5,7 @@ YouTube Playlists for computer science students.
 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Computer-Science/README.md) Playlists
 Computer Science Playlists for computer science students, which including the following main topics:
@@ -16,7 +16,7 @@ Computer Science Playlists for computer science students, which including the fo
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Computer-Science/README.md) Playlists
 #### - [Theory of Computation and Compiler Design](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Computer-Science/README.md) Playlists
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 Software Engineering Playlists for computer science students, which including the following main topics:
@@ -27,7 +27,7 @@ Software Engineering Playlists for computer science students, which including th
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 Artificial Intelligence Playlists for computer science students, which including the following main topics:
@@ -38,7 +38,7 @@ Artificial Intelligence Playlists for computer science students, which including
 #### - [Signal Processing and Data Compression](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Artificial-Intelligence/README.md) Playlists
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
 ## [`Data Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 Data Science Playlists for computer science students, which including the following main topics:
@@ -49,7 +49,7 @@ Data Science Playlists for computer science students, which including the follow
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
 Bioinformatics Playlists for computer science students, which including the following main topics:
@@ -60,7 +60,7 @@ Bioinformatics Playlists for computer science students, which including the foll
 #### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
 #### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
 Operation Research Playlists for computer science students, which including the following main topics:

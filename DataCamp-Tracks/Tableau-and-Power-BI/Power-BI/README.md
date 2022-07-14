@@ -3,7 +3,7 @@
 # Tableau and Power-BI Tracks
 
 <br>
-<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg">
+<img align="right" width="80" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg">
 <br><br>
 
 ## Power BI

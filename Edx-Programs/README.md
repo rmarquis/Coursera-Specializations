@@ -5,7 +5,7 @@ Edx Programs for computer science students.
 
 <br>
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
 ## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Computer-Science/README.md) Programs
 Computer Science Programs for computer science students, which including the following main topics:
@@ -15,7 +15,7 @@ Computer Science Programs for computer science students, which including the fol
 #### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Computer-Science/README.md) Programs
 #### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Computer-Science/README.md) Programs
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
 ## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 Software Engineering Programs for computer science students, which including the following main topics:
@@ -25,7 +25,7 @@ Software Engineering Programs for computer science students, which including the
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Software-Engineering/README.md) Programs
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
 ## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 Artificial Intelligence Programs for computer science students, which including the following main topics:
@@ -35,7 +35,7 @@ Artificial Intelligence Programs for computer science students, which including 
 #### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 #### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Artificial-Intelligence/README.md) Programs
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
 ## [`Data Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 Data Science Programs for computer science students, which including the following main topics:
@@ -45,7 +45,7 @@ Data Science Programs for computer science students, which including the followi
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
 
 ## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
 Bioinformatics Programs for computer science students, which including the following main topics:
@@ -55,7 +55,7 @@ Bioinformatics Programs for computer science students, which including the follo
 #### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
 #### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
 
 ## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Operation-Research/README.md) Programs
 Operation Research Programs for computer science students, which including the following main topics:
