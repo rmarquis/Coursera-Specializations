@@ -74,12 +74,25 @@ Getting Started with AWS Machine Learning by Amazon Web Services<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
-Machine Learning by Stanford University<br>
-<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
+                <td rowspan=4 align=center>
+AI for Scientific Research
+<a href="https://www.coursera.org/specializations/artificial-intelligence-scientific-research">Specialization</a> by LearnQuest<br>
+<img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
                 </td>
-                <td><a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a></td>
-                <td align="center">55</td>
+                <td><a href="https://www.coursera.org/learn/data-science-and-scikit-learn-in-python">Introduction to Data Science and scikit-learn in Python</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/machine-learning-models-in-science">Machine Learning Models in Science</a></td>
+                <td align="center">15</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/neural-networks-random-forests">Neural Networks and Random Forests</a></td>
+                <td align="center">10</td>
+            </tr>
+            <tr>
+                <td><a href="https://www.coursera.org/learn/ai-for-drug-discovery">Capstone Project: Advanced AI for Drug Discovery</a></td>
+                <td align="center">15</td>
             </tr>
             <tr>
                 <td rowspan=1 align=center>
