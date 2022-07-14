@@ -75,7 +75,7 @@
         <tr>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">IBM Introduction to Machine Learning Specialization by IBM</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">IBM Machine Learning Professional Certificate by IBM</a></td>
- <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Machine Learning Specialization by DeepLearning.AI</a></td>
+ <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Machine Learning Specialization by deepLearning.ai</a></td>
 <td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Machine Learning Specialization by University of Washington</a></td>
         </tr>
         <tr>
