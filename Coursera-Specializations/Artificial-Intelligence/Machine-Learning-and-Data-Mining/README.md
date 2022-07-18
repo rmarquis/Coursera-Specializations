@@ -63,7 +63,7 @@ IBM Machine Learning Profession
             </tr>
             <tr>
                 <td rowspan=3 align=center>
-Machine Learning <br>   
+Machine Learning <br>
 <a href="https://www.coursera.org/specializations/machine-learning-introduction">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
                 </td>
