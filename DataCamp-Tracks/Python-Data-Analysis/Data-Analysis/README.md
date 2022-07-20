@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-marketing-campaigns-with-pandas">Analyzing Marketing Campaigns with pandas</a><br>
                 <td align="left">Pandas</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Personalization A/B Test</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-police-activity-with-pandas">Analyzing Police Activity with pandas</a><br>
                 <td align="left">Preparing the data for analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Analyzing the effect of weather on policing</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-social-media-data-in-python">Analyzing Social Media Data in Python</a><br>
                 <td align="left">Basics of Analyzing Twitter Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Putting Twitter data on the map</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/arima-models-in-python">ARIMA Models in Python</a><br>
                 <td align="left">ARMA Models</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Seasonal ARIMA Models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/customer-segmentation-in-python">Customer Segmentation in Python</a><br>
                 <td align="left">Cohort Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Customer Segmentation with K-means</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/market-basket-analysis-in-python">Market Basket Analysis in Python</a><br>
                 <td align="left">Introduction to Market Basket Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -128,7 +128,7 @@
                 <td align="left">Visualizing Rules</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/marketing-analytics-predicting-customer-churn-in-python">Marketing Analytics: Predicting Customer Churn in Python</a><br>
                 <td align="left">Exploratory Data Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Model Tuning</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/working-with-geospatial-data-in-python">Working with Geospatial Data in Python</a><br>
                 <td align="left">Introduction to geospatial vector data</td>
                 <td rowspan=4 align="center">4</td>
@@ -164,7 +164,7 @@
                 <td align="left">Putting it all together - Artisanal mining sites case study</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/supply-chain-analytics-in-python">Supply Chain Analytics in Python</a><br>
                 <td align="left">Basics of supply chain optimization and PuLP</td>
                 <td rowspan=4 align="center">4</td>
@@ -182,7 +182,7 @@
                 <td align="left">Sensitivity and simulation testing of model</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-predictive-analytics-in-python">Intermediate Predictive Analytics in Python</a><br>
                 <td align="left">Crucial base table concepts</td>
                 <td rowspan=4 align="center">4</td>
@@ -200,7 +200,7 @@
                 <td align="left">Advanced base table concepts</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-us-census-data-in-python">Analyzing US Census Data in Python</a><br>
                 <td align="left">Decennial Census of Population and Housing</td>
                 <td rowspan=4 align="center">5</td>
@@ -218,7 +218,7 @@
                 <td align="left">Exploring Census Topics</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-data-science-in-python">Introduction to Data Science in Python</a><br>
                 <td align="left">Getting Started in Python</td>
                 <td rowspan=4 align="center">4</td>
@@ -236,7 +236,7 @@
                 <td align="left">Different Types of Plots</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/feature-engineering-for-machine-learning-in-python">Feature Engineering for Machine Learning in Python</a><br>
                 <td align="left">Creating Features</td>
                 <td rowspan=4 align="center">4</td>
@@ -254,7 +254,7 @@
                 <td align="left">Dealing with Text Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/creating-robust-workflows-in-python">Creating Robust Workflows in Python</a><br>
                 <td align="left">Python Programming Principles</td>
                 <td rowspan=4 align="center">4</td>
@@ -272,7 +272,7 @@
                 <td align="left">Projects, pipelines, and parallelism</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/python-for-spreadsheet-users">Python for Spreadsheet Users</a><br>
                 <td align="left">Diving In</td>
                 <td rowspan=4 align="center">4</td>
@@ -290,7 +290,7 @@
                 <td align="left">Plotting Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/exploratory-data-analysis-in-python">Exploratory Data Analysis in Python</a><br>
                 <td align="left">Read, clean, and validate</td>
                 <td rowspan=4 align="center">4</td>
@@ -308,7 +308,7 @@
                 <td align="left">Multivariate Thinking</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/winning-a-kaggle-competition-in-python">Winning a Kaggle Competition in Python</a><br>
                 <td align="left">Kaggle competitions process</td>
                 <td rowspan=4 align="center">4</td>

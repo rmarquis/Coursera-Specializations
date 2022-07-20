@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/creating-postgresql-databases">Creating PostgreSQL Databases</a><br>
                 <td align="left">Structure of PostgreSQL Databases</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Access Control in PostgreSQL</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/functions-for-manipulating-data-in-postgresql">Functions for Manipulating Data in PostgreSQL</a><br>
                 <td align="left">Overview of Common Data Types</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Full-text Search and PostgresSQL Extensions</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/postgresql-summary-stats-and-window-functions">PostgreSQL Summary Stats and Window Functions</a><br>
                 <td align="left">Introduction to window functions</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Beyond window functions</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/cleaning-data-in-postgresql-databases">Cleaning Data in PostgreSQL Databases</a><br>
                 <td align="left">Data Cleaning Basics</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Transforming Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/improving-query-performance-in-postgresql">Improving Query Performance in PostgreSQL</a><br>
                 <td align="left">Bringing Together the Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Assessing Query Performance</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/transactions-and-error-handling-in-postgresql">Transactions and Error Handling in PostgreSQL</a><br>
                 <td align="left">Getting to know transactions</td>
                 <td rowspan=4 align="center">4</td>

@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-bash-scripting">Introduction to Bash Scripting</a><br>
                 <td align="left">From Command-Line to Bash Script</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Functions and Automation</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-shell">Introduction to Shell</a><br>
                 <td align="left">Manipulating files and directories</td>
                 <td rowspan=5 align="center">4</td>
@@ -59,7 +59,7 @@
                 <td align="left">Creating new tools</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/conda-essentials">Conda Essentials</a><br>
                 <td align="left">Installing Packages</td>
                 <td rowspan=4 align="center">3</td>
@@ -77,7 +77,7 @@
                 <td align="left">Case Study on Using Environments</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/building-and-distributing-packages-with-conda">Building and Distributing Packages with Conda</a><br>
                 <td align="left">Anaconda Project</td>
                 <td rowspan=3 align="center">3</td>
@@ -92,7 +92,7 @@
                 <td align="left">Conda Packages</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-processing-in-shell">Data Processing in Shell</a><br>
                 <td align="left">Downloading Data on the Command Line</td>
                 <td rowspan=4 align="center">4</td>

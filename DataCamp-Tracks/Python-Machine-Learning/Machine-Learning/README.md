@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/ai-fundamentals">AI Fundamentals</a><br>
                 <td align="left">Introduction to AI</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Deep Learning & Beyond</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python">Software Engineering for Data Scientists in Python</a><br>
                 <td align="left">Software Engineering & Data Science</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Maintainability</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/preprocessing-for-machine-learning-in-python">Preprocessing for Machine Learning in Python</a><br>
                 <td align="left">Introduction to Data Preprocessing</td>
                 <td rowspan=5 align="center">4</td>
@@ -77,7 +77,7 @@
                 <td align="left">Putting it all together</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/linear-classifiers-in-python">Linear Classifiers in Python</a><br>
                 <td align="left">Applying logistic regression and SVM</td>
                 <td rowspan=4 align="center">4</td>
@@ -95,7 +95,7 @@
                 <td align="left">Support Vector Machines</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/unsupervised-learning-in-python">Unsupervised Learning in Python</a><br>
                 <td align="left">Clustering for dataset exploration</td>
                 <td rowspan=4 align="center">4</td>
@@ -113,7 +113,7 @@
                 <td align="left">Discovering interpretable features</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn">Supervised Learning with scikit-learn</a><br>
                 <td align="left">Classification</td>
                 <td rowspan=4 align="center">4</td>
@@ -131,7 +131,7 @@
                 <td align="left">Preprocessing and pipelines</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-with-tree-based-models-in-python">Machine Learning with Tree-Based Models in Python</a><br>
                 <td align="left">Classification and Regression Trees</td>
                 <td rowspan=5 align="center">5</td>
@@ -152,7 +152,7 @@
                 <td align="left">Model Tuning</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-predictive-analytics-in-python">Introduction to Predictive Analytics in Python</a><br>
                 <td align="left">Building Logistic Regression Models</td>
                 <td rowspan=4 align="center">4</td>
@@ -170,7 +170,7 @@
                 <td align="left">Interpreting and explaining models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/dimensionality-reduction-in-python">Dimensionality Reduction in Python</a><br>
                 <td align="left">Exploring high dimensional data</td>
                 <td rowspan=4 align="center">4</td>
@@ -188,7 +188,7 @@
                 <td align="left">Feature extraction</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/designing-machine-learning-workflows-in-python">Designing Machine Learning Workflows in Python</a><br>
                 <td align="left">The Standard Workflow</td>
                 <td rowspan=4 align="center">4</td>
@@ -206,7 +206,7 @@
                 <td align="left">Unsupervised Workflows</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/case-study-school-budgeting-with-machine-learning-in-python">Case Study: School Budgeting with Machine Learning in Python</a><br>
                 <td align="left">Exploring the raw data</td>
                 <td rowspan=4 align="center">4</td>
@@ -224,7 +224,7 @@
                 <td align="left">Learning from the experts</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-for-time-series-data-in-python">Machine Learning for Time Series Data in Python</a><br>
                 <td align="left">Time Series and Machine Learning Primer</td>
                 <td rowspan=4 align="center">4</td>
@@ -242,7 +242,7 @@
                 <td align="left">Validating and Inspecting Time Series Models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-for-marketing-in-python">Machine Learning for Marketing in Python</a><br>
                 <td align="left">Machine learning for marketing basics</td>
                 <td rowspan=4 align="center">4</td>
@@ -260,7 +260,7 @@
                 <td align="left">Customer segmentation</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/human-resources-analytics-predicting-employee-churn-in-python">Human Resources Analytics: Predicting Employee Churn in Python</a><br>
                 <td align="left">Introduction to HR Analytics</td>
                 <td rowspan=4 align="center">4</td>
@@ -278,7 +278,7 @@
                 <td align="left">Choosing the best turnover prediction model</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-for-finance-in-python">Machine Learning for Finance in Python</a><br>
                 <td align="left">Preparing data and a linear model</td>
                 <td rowspan=4 align="center">4</td>
@@ -296,7 +296,7 @@
                 <td align="left">Machine learning with modern portfolio theory</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/extreme-gradient-boosting-with-xgboost">Extreme Gradient Boosting with XGBoost</a><br>
                 <td align="left">Classification with XGBoost</td>
                 <td rowspan=4 align="center">4</td>
@@ -314,7 +314,7 @@
                 <td align="left">Using XGBoost in pipelines</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/parallel-programming-with-dask-in-python">Parallel Programming with Dask in Python</a><br>
                 <td align="left">Working with Big Data</td>
                 <td rowspan=5 align="center">4</td>
@@ -335,7 +335,7 @@
                 <td align="left">Case Study: Analyzing Flight Delays</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/fraud-detection-in-python">Fraud Detection in Python</a><br>
                 <td align="left">Introduction and preparing your data</td>
                 <td rowspan=4 align="center">4</td>
@@ -353,7 +353,7 @@
                 <td align="left">Fraud detection using text</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/cluster-analysis-in-python">Cluster Analysis in Python</a><br>
                 <td align="left">Introduction to Clustering</td>
                 <td rowspan=4 align="center">4</td>
@@ -371,7 +371,7 @@
                 <td align="left">Clustering in Real World</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/model-validation-in-python">Model Validation in Python</a><br>
                 <td align="left">Basic Modeling in scikit-learn</td>
                 <td rowspan=4 align="center">4</td>
@@ -389,7 +389,7 @@
                 <td align="left">Selecting the best model with Hyperparameter tuning.</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/hyperparameter-tuning-in-python">Hyperparameter Tuning in Python</a><br>
                 <td align="left">Hyperparameters and Parameters</td>
                 <td rowspan=4 align="center">4</td>
@@ -407,7 +407,7 @@
                 <td align="left">Informed Search</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/ensemble-methods-in-python">Ensemble Methods in Python</a><br>
                 <td align="left">Combining Multiple Models</td>
                 <td rowspan=4 align="center">4</td>
@@ -425,7 +425,7 @@
                 <td align="left">Stacking</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/practicing-machine-learning-interview-questions-in-python">Practicing Machine Learning Interview Questions in Python</a><br>
                 <td align="left">Data Pre-processing and Visualization</td>
                 <td rowspan=4 align="center">4</td>
@@ -443,7 +443,7 @@
                 <td align="left">Model Selection and Evaluation</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-iot-data-in-python">Analyzing IoT Data in Python</a><br>
                 <td align="left">Accessing IoT Data</td>
                 <td rowspan=4 align="center">4</td>

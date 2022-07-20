@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-data-visualization-in-python">Introduction to Data Visualization in Python</a><br>
                 <td align="left">Customizing plots</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Analyzing time series and images</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-data-visualization-with-matplotlib">Introduction to Data Visualization with Matplotlib</a><br>
                 <td align="left">Introduction to Matplotlib</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Sharing visualizations with others</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-data-visualization-with-seaborn">Introduction to Data Visualization with Seaborn</a><br>
                 <td align="left">Introduction to Seaborn</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Customizing Seaborn Plots</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-data-visualization-with-seaborn">Intermediate Data Visualization with Seaborn</a><br>
                 <td align="left">Seaborn Introduction</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Creating Plots on Data Aware Grids</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/improving-your-data-visualizations-in-python">Improving Your Data Visualizations in Python</a><br>
                 <td align="left">Highlighting your data</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Visualization in the data science workflow</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/interactive-data-visualization-with-bokeh">Interactive Data Visualization with Bokeh</a><br>
                 <td align="left">Basic plotting with Bokeh</td>
                 <td rowspan=4 align="center">4</td>
@@ -128,7 +128,7 @@
                 <td align="left">Putting It All Together! A Case Study</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/visualizing-geospatial-data-in-python">Visualizing Geospatial Data in Python</a><br>
                 <td align="left">Building 2-layer maps : combining polygons and scatterplots</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Creating a choropleth building permit density in Nashville</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/visualizing-time-series-data-in-python">Visualizing Time Series Data in Python</a><br>
                 <td align="left">Introduction</td>
                 <td rowspan=5 align="center">4</td>

@@ -19,52 +19,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Fundamentals-of-Software-Engineering/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -74,52 +74,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -129,52 +129,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Database-Systems-and-Warehousing/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -184,52 +184,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Continuous-Delivery-and-DevOps/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -239,52 +239,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Web-Mobile-Game-Development/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>

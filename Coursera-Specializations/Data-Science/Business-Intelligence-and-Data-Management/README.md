@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Business Statistics and Analysis
 <a href="https://www.coursera.org/specializations/business-statistics-analysis">Specialization</a> by Rice University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
@@ -37,7 +37,7 @@ Business Statistics and Analysis
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Data Visualization with Tableau
 <a href="https://www.coursera.org/specializations/data-visualization">Specialization</a> by University of California Davis<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20davis.jpg" width="40%">
@@ -62,7 +62,7 @@ Data Visualization with Tableau
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Everyday Excel
 <a href="https://www.coursera.org/specializations/everyday-excel">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -79,7 +79,7 @@ Everyday Excel
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Excel/VBA for Creative Problem Solving
 <a href="https://www.coursera.org/specializations/excel-vba-creative-problem-solving">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -96,7 +96,7 @@ Excel/VBA for Creative Problem Solving
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Excel Skills for Data Analytics and Visualization
 <a href="https://www.coursera.org/specializations/excel-data-analytics-visualization">Specialization</a> by Macquarie University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/macquarie%20university.jpg" width="40%">
@@ -113,7 +113,7 @@ Excel Skills for Data Analytics and Visualization
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Excel Skills for Business
 <a href="https://www.coursera.org/specializations/excel">Specialization</a> by Macquarie University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/macquarie%20university.jpg" width="40%">
@@ -134,7 +134,7 @@ Excel Skills for Business
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Excel Skills for Business Forecasting
 <a href="https://www.coursera.org/specializations/excel-skills-for-business-forecasting">Specialization</a> by Macquarie University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/macquarie%20university.jpg" width="40%">
@@ -151,7 +151,7 @@ Excel Skills for Business Forecasting
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Data Visualization
 <a href="https://www.coursera.org/specializations/datavisualization">Specialization</a> by Arizona State University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/arizona%20state%20university.jpg" width="40%">
@@ -172,7 +172,7 @@ Data Visualization
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Business Analytics
 <a href="https://www.coursera.org/specializations/business-analytics">Specialization</a> by University of Pennsylvania<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20pennsylvania.jpg" width="40%">
@@ -197,7 +197,7 @@ Business Analytics
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Data Analysis and Visualization Foundations
 <a href="https://www.coursera.org/specializations/data-analysis-visualization-foundations">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -214,7 +214,7 @@ Data Analysis and Visualization Foundations
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Data Analysis and Presentation Skills: the PwC Approach
 <a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/pwc.jpg" width="40%">
@@ -239,7 +239,7 @@ Data Analysis and Presentation Skills: the PwC Approach
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Information Visualization
 <a href="https://www.coursera.org/specializations/information-visualization">Specialization</a> by New York University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/new%20york%20university.jpg" width="40%">
@@ -260,7 +260,7 @@ Information Visualization
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 GIS, Mapping, and Spatial Analysis
 <a href="https://www.coursera.org/specializations/gis-mapping-spatial-analysis">Specialization</a> by University of Toronto<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20toronto.jpg" width="40%">
@@ -281,7 +281,7 @@ GIS, Mapping, and Spatial Analysis
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Geographic Information Systems (GIS)
 <a href="https://www.coursera.org/specializations/gis">Specialization</a> by University of California Davis<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20davis.jpg" width="40%">
@@ -306,7 +306,7 @@ Geographic Information Systems (GIS)
                 <td align="center">65</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Maps and the Geospatial Revolution by University of Pennsylvania<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20pennsylvania.jpg" width="40%">
                 </td>
@@ -314,7 +314,7 @@ Maps and the Geospatial Revolution by University of Pennsylvania<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Geographical Information Systems - Part 1 by ecole polytechnique federale de lausanne<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ecole%20polytechnique%20federale%20de%20lausanne.jpg" width="40%">
                 </td>
@@ -322,7 +322,7 @@ Geographical Information Systems - Part 1 by ecole polytechnique federale de lau
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 IBM Data Warehouse Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/data-warehouse-engineering">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -355,7 +355,7 @@ IBM Data Warehouse Engineer Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 BI Foundations with SQL, ETL and Data Warehousing
 <a href="https://www.coursera.org/specializations/bi-foundations-sql-etl-data-warehouse">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -376,7 +376,7 @@ BI Foundations with SQL, ETL and Data Warehousing
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Microsoft Azure Data Fundamentals DP-900 Exam Prep
 <a href="https://www.coursera.org/specializations/microsoft-azure-dp-900-data-fundamentals">Specialization</a> by Microsoft<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/microsoft.jpg" width="40%">
@@ -401,7 +401,7 @@ Microsoft Azure Data Fundamentals DP-900 Exam Prep
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Visualization for Data Journalism by University of Illinois at Urbana-Champaign<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
                 </td>

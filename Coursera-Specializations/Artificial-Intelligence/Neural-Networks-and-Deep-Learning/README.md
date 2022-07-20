@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Machine Learning by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
                 </td>
@@ -20,7 +20,7 @@ Introduction to Machine Learning by Duke University<br>
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Deep Learning for Business by Yonsei University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/yonsei%20university.jpg" width="40%">
                 </td>
@@ -28,7 +28,7 @@ Deep Learning for Business by Yonsei University<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 An Introduction to Practical Deep Learning by Intel<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/intel.jpg" width="40%">
                 </td>
@@ -36,7 +36,7 @@ An Introduction to Practical Deep Learning by Intel<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Deep Learning
 <a href="https://www.coursera.org/specializations/deep-learning">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -61,7 +61,7 @@ Deep Learning
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 DeepLearning.AI TensorFlow Developer Profession
 <a href="https://www.coursera.org/specializations/tensorflow-in-practice">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -82,7 +82,7 @@ DeepLearning.AI TensorFlow Developer Profession
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 TensorFlow: Data and Deployment
 <a href="https://www.coursera.org/specializations/tensorflow-data-and-deployment">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -103,7 +103,7 @@ TensorFlow: Data and Deployment
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 AI for Medicine
 <a href="https://www.coursera.org/specializations/ai-for-medicine">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -120,7 +120,7 @@ AI for Medicine
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Deep Learning for Healthcare
 <a href="https://www.coursera.org/specializations/deep-learning-healthcare">Specialization</a> by University of Illinois at Urbana-Champaign<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
@@ -137,7 +137,7 @@ Deep Learning for Healthcare
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Generative Adversarial Networks (GANs)
 <a href="https://www.coursera.org/specializations/generative-adversarial-networks-gans">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -154,7 +154,7 @@ Generative Adversarial Networks (GANs)
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Machine Learning Engineering for Production (MLOps)
 <a href="https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -175,7 +175,7 @@ Machine Learning Engineering for Production (MLOps)
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Practical Data Science
 <a href="https://www.coursera.org/specializations/practical-data-science">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -192,7 +192,7 @@ Practical Data Science
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 IBM AI Engineering Profession
 <a href="https://www.coursera.org/professional-certificates/ai-engineer">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -221,7 +221,7 @@ IBM AI Engineering Profession
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Advanced Machine Learning with TensorFlow on Google Cloud Platform
 <a href="https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -246,7 +246,7 @@ Advanced Machine Learning with TensorFlow on Google Cloud Platform
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 Advanced Machine Learning
 <a href="https://www.coursera.org/specializations/aml">Specialization</a> by National Research University Higher School of Economics<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
@@ -279,7 +279,7 @@ Advanced Machine Learning
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Natural Language Processing
 <a href="https://www.coursera.org/specializations/natural-language-processing">Specialization</a> by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
@@ -300,7 +300,7 @@ Natural Language Processing
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Machine Learning with TensorFlow on Google Cloud Platform
 <a href="https://www.coursera.org/specializations/machine-learning-tensorflow-gcp">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">

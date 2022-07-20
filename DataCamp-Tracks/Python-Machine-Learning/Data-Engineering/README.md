@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-pyspark">Introduction to PySpark</a><br>
                 <td align="left">Getting to know PySpark</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Model tuning and selection</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-data-engineering">Introduction to Data Engineering</a><br>
                 <td align="left">Introduction to Data Engineering</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Case Study: DataCamp</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-spark-sql-in-python">Introduction to Spark SQL in Python</a><br>
                 <td align="left">Pyspark SQL</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Text classification</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/big-data-fundamentals-with-pyspark">Big Data Fundamentals with PySpark</a><br>
                 <td align="left">Introduction to Big Data analysis with Spark</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Machine Learning with PySpark Mllib</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/feature-engineering-with-pyspark">Feature Engineering with PySpark</a><br>
                 <td align="left">Exploratory Data Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Building a Model</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/cleaning-data-with-pyspark">Cleaning Data with PySpark</a><br>
                 <td align="left">DataFrame details</td>
                 <td rowspan=4 align="center">4</td>
@@ -128,7 +128,7 @@
                 <td align="left">Complex processing and data pipelines</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-with-pyspark">Machine Learning with PySpark</a><br>
                 <td align="left">Introduction</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Ensembles & Pipelines</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/recommendation-engines-in-pyspark">Building Recommendation Engines with PySpark</a><br>
                 <td align="left">Recommendations Are Everywhere</td>
                 <td rowspan=4 align="center">4</td>
@@ -164,7 +164,7 @@
                 <td align="left">What if you don't have customer ratings?</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-airflow-in-python">Introduction to Airflow in Python</a><br>
                 <td align="left">Intro to Airflow</td>
                 <td rowspan=4 align="center">4</td>
@@ -182,7 +182,7 @@
                 <td align="left">Building production pipelines in Airflow</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/streaming-data-with-aws-kinesis-and-lambda">Streaming Data with AWS Kinesis and Lambda</a><br>
                 <td align="left">Streaming in the cloud</td>
                 <td rowspan=4 align="center">4</td>
@@ -200,7 +200,7 @@
                 <td align="left">Monitoring and visualizing streaming data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/building-data-engineering-pipelines-in-python">Building Data Engineering Pipelines in Python</a><br>
                 <td align="left">Ingesting Data</td>
                 <td rowspan=4 align="center">4</td>

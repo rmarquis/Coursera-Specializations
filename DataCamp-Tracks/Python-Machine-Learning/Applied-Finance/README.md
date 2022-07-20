@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/credit-risk-modeling-in-python">Credit Risk Modeling in Python</a><br>
                 <td align="left">Exploring and Preparing Loan Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Model Evaluation and Implementation</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-python-for-finance">Introduction to Python for Finance</a><br>
                 <td align="left">Welcome to Python</td>
                 <td rowspan=5 align="center">4</td>
@@ -59,7 +59,7 @@
                 <td align="left">S&P 100 Case Study</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-python-for-finance">Intermediate Python for Finance</a><br>
                 <td align="left">Datetimes and Dictionaries</td>
                 <td rowspan=4 align="center">4</td>
@@ -77,7 +77,7 @@
                 <td align="left">Working with NASDAQ Stock Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-financial-concepts-in-python">Introduction to Financial Concepts in Python</a><br>
                 <td align="left">The Time Value of Money</td>
                 <td rowspan=4 align="center">4</td>
@@ -95,7 +95,7 @@
                 <td align="left">Budgeting Application</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-portfolio-analysis-in-python">Introduction to Portfolio Analysis in Python</a><br>
                 <td align="left">Introduction to Portfolio Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -113,7 +113,7 @@
                 <td align="left">Portfolio Optimization</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-portfolio-risk-management-in-python">Introduction to Portfolio Risk Management in Python</a><br>
                 <td align="left">Univariate Investment Risk and Returns</td>
                 <td rowspan=4 align="center">4</td>
@@ -131,7 +131,7 @@
                 <td align="left">Value at Risk</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/importing-and-managing-financial-data-in-python">Importing and Managing Financial Data in Python</a><br>
                 <td align="left">Importing stock listing data from Excel</td>
                 <td rowspan=4 align="center">5</td>
@@ -149,7 +149,7 @@
                 <td align="left">Aggregating and describing your data by category</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/garch-models-in-python">GARCH Models in Python</a><br>
                 <td align="left">GARCH Model Fundamentals</td>
                 <td rowspan=4 align="center">4</td>
@@ -167,7 +167,7 @@
                 <td align="left">GARCH in Action</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/quantitative-risk-management-in-python">Quantitative Risk Management in Python</a><br>
                 <td align="left">Risk and return recap</td>
                 <td rowspan=4 align="center">4</td>
@@ -185,7 +185,7 @@
                 <td align="left">Advanced risk management</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/financial-forecasting-in-python">Financial Forecasting in Python</a><br>
                 <td align="left">Income statements</td>
                 <td rowspan=4 align="center">4</td>

@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-tableau">Introduction to Tableau</a><br>
                 <td align="left">Getting Started with Tableau</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Presenting Your Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-data-in-tableau">Analyzing Data in Tableau</a><br>
                 <td align="left">Preparing for Analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Groups, Sets, and Parameters</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/statistical-techniques-in-tableau">Statistical Techniques in Tableau</a><br>
                 <td align="left">Univariate exploratory data analysis</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Forecasting and clustering</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 <a href="https://learn.datacamp.com/courses/connecting-data-in-tableau">Connecting Data in Tableau</a><br>
                 <td align="left">Combining and Saving Data</td>
                 <td rowspan=2 align="center">4</td>
@@ -86,7 +86,7 @@
                 <td align="left">Managing and Connecting Data</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 <a href="https://learn.datacamp.com/courses/creating-dashboards-in-tableau">Creating Dashboards in Tableau</a><br>
                 <td align="left">Getting Started With Dashboards</td>
                 <td rowspan=2 align="center">4</td>

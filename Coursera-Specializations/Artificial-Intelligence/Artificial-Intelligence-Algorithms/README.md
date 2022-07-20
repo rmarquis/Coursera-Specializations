@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 AI Product Management
 <a href="https://www.coursera.org/specializations/ai-product-management-duke">Specialization</a> by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
@@ -29,7 +29,7 @@ AI Product Management
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Introduction to Logic and Critical Thinking
 <a href="https://www.coursera.org/specializations/logic-critical-thinking-duke">Specialization</a> by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
@@ -50,7 +50,7 @@ Introduction to Logic and Critical Thinking
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 AI For Everyone by deeplearning.ai<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/deeplearning.ai.jpg" width="40%">
                 </td>
@@ -58,7 +58,7 @@ AI For Everyone by deeplearning.ai<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Creative Thinking: Techniques and Tools for Success by Imperial College London<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/imperial%20college%20london.jpg" width="40%">
                 </td>
@@ -66,7 +66,7 @@ Creative Thinking: Techniques and Tools for Success by Imperial College London<b
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Getting Started with AWS Machine Learning by Amazon Web Services<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
                 </td>
@@ -74,7 +74,7 @@ Getting Started with AWS Machine Learning by Amazon Web Services<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 AI for Scientific Research
 <a href="https://www.coursera.org/specializations/artificial-intelligence-scientific-research">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -95,7 +95,7 @@ AI for Scientific Research
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Artificial Intelligence (AI) Education for Teachers by Macquarie University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/macquarie%20university.jpg" width="40%">
                 </td>
@@ -103,7 +103,7 @@ Artificial Intelligence (AI) Education for Teachers by Macquarie University<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 IBM AI Enterprise Workflow
 <a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -132,7 +132,7 @@ IBM AI Enterprise Workflow
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Ethics in the Age of AI
 <a href="https://www.coursera.org/specializations/ethics-in-ai">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -153,7 +153,7 @@ Ethics in the Age of AI
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Machine Learning for Supply Chains
 <a href="https://www.coursera.org/specializations/machine-learning-supply-chain">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -174,7 +174,7 @@ Machine Learning for Supply Chains
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Developing AI Applications on Azure by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
                 </td>
@@ -182,7 +182,7 @@ Developing AI Applications on Azure by LearnQuest<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Mind and Machine
 <a href="https://www.coursera.org/specializations/mind-machine">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -203,7 +203,7 @@ Mind and Machine
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 AI in Healthcare
 <a href="https://www.coursera.org/specializations/ai-healthcare">Specialization</a> by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
@@ -228,7 +228,7 @@ AI in Healthcare
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 AI Foundations for Everyone
 <a href="https://www.coursera.org/specializations/ai-foundations-for-everyone">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -245,7 +245,7 @@ AI Foundations for Everyone
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 IBM Applied AI Profession
 <a href="https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -274,7 +274,7 @@ IBM Applied AI Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 IBM AI Enterprise Workflow
 <a href="https://www.coursera.org/specializations/ibm-ai-workflow">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">

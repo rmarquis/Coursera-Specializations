@@ -14,49 +14,49 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan=1 align=center>The Organic Chemistry Tutor</td>
+            <td rowspan=1 align="center">The Organic Chemistry Tutor</td>
             <td><a href="https://www.youtube.com/playlist?list=PL0o_zxa4K1BWLRgHW2i8diQ359U5FbKnI">SAT Math</a></td>
             <td align="center">47</td>
             <td align="center">15</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>Neso Academy</td>
+            <td rowspan=1 align="center">Neso Academy</td>
             <td><a href="https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3">Discrete Mathematics</a></td>
             <td align="center">51</td>
             <td align="center">5</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>TheTrevTutor</td>
+            <td rowspan=1 align="center">TheTrevTutor</td>
             <td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ag1EIznZ-m-qXu4XX3A0cIz">Discrete Math 1</a></td>
             <td align="center">71</td>
             <td align="center">15</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>TheTrevTutor</td>
+            <td rowspan=1 align="center">TheTrevTutor</td>
             <td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Aj0amDsYInT_8p6xTSTGEi2">Discrete Math 2</a></td>
             <td align="center">38</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>TheTrevTutor</td>
+            <td rowspan=1 align="center">TheTrevTutor</td>
             <td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6Ah0e9VYg6ejkS4jRLKB2b2J">Introduction to Linguistics</a></td>
             <td align="center">18</td>
             <td align="center">5</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>TheTrevTutor</td>
+            <td rowspan=1 align="center">TheTrevTutor</td>
             <td><a href="https://www.youtube.com/playlist?list=PLDDGPdw7e6AhOute8PxF1qccHYGtFZdbl">Mathematical Linguistics</a></td>
             <td align="center">35</td>
             <td align="center">10</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>Professor Macauley</td>
+            <td rowspan=1 align="center">Professor Macauley</td>
             <td><a href="https://www.youtube.com/playlist?list=PLwV-9DG53NDz3zpkmsYx3BLzTAP6FyHeg">Discrete Mathematical Structures</a></td>
             <td align="center">30</td>
             <td align="center">15</td>
         </tr>
         <tr>
-            <td rowspan=1 align=center>James Hamblin</td>
+            <td rowspan=1 align="center">James Hamblin</td>
             <td><a href="https://www.youtube.com/playlist?list=PLNr8B4XHL5kHuVKyyzj7QshcT9yzPc_8J">Discrete Mathematics</a></td>
             <td align="center">18</td>
             <td align="center">3</td>
@@ -76,7 +76,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 MIT OpenCourseWare <a href="https://www.youtube.com/c/mitocw">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/MIT%20OpenCourseWare.jpg" width="40%">
                 </td>
@@ -112,7 +112,7 @@ MIT OpenCourseWare <a href="https://www.youtube.com/c/mitocw">Playlists</a><br>
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Tutorials Point (India) Ltd <a href="https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Tutorials%20Point%20(India)%20Ltd.jpg" width="40%">
                 </td>
@@ -128,7 +128,7 @@ Tutorials Point (India) Ltd <a href="https://www.youtube.com/channel/UCVLbzhxVTi
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 nptelhrd <a href="https://www.youtube.com/c/iit">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/nptelhrd.jpg" width="40%">
                 </td>
@@ -160,7 +160,7 @@ nptelhrd <a href="https://www.youtube.com/c/iit">Playlists</a><br>
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Neso Academy <a href="https://www.youtube.com/user/nesoacademy">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Neso%20Academy.jpg" width="40%">
                 </td>
@@ -172,7 +172,7 @@ Neso Academy <a href="https://www.youtube.com/user/nesoacademy">Playlists</a><br
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 mycodeschool <a href="https://www.youtube.com/user/mycodeschool">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/mycodeschool.jpg" width="40%">
                 </td>
@@ -200,7 +200,7 @@ mycodeschool <a href="https://www.youtube.com/user/mycodeschool">Playlists</a><b
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Gate Lectures by Ravindrababu Ravula <a href="https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Gate%20Lectures%20by%20Ravindrababu%20Ravula.jpg" width="40%">
                 </td>
@@ -228,7 +228,7 @@ Gate Lectures by Ravindrababu Ravula <a href="https://www.youtube.com/channel/UC
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Gate Smashers <a href="https://www.youtube.com/c/GateSmashers">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Gate%20Smashers.jpg" width="40%">
                 </td>
@@ -244,7 +244,7 @@ Gate Smashers <a href="https://www.youtube.com/c/GateSmashers">Playlists</a><br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Education 4u <a href="https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Education%204u.jpg" width="40%">
                 </td>
@@ -256,7 +256,7 @@ Education 4u <a href="https://www.youtube.com/channel/UCKS34cSMNaXaySe2xgXH-3A">
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Jennys lectures CS-IT NET&JRF <a href="https://www.youtube.com/c/JennyslecturesCSITNETJRF">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Jennys%20lectures%20CS-IT%20NET&JRF.jpg" width="40%">
                 </td>
@@ -268,7 +268,7 @@ Jennys lectures CS-IT NET&JRF <a href="https://www.youtube.com/c/JennyslecturesC
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Easy Engineering Classes <a href="https://www.youtube.com/c/EasyEngineeringClasses">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Easy%20Engineering%20Classes.jpg" width="40%">
                 </td>
@@ -288,7 +288,7 @@ Easy Engineering Classes <a href="https://www.youtube.com/c/EasyEngineeringClass
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 KNOWLEDGE GATE <a href="https://www.youtube.com/c/KNOWLEDGEGATE_kg">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/KNOWLEDGE%20GATE.jpg" width="40%">
                 </td>
@@ -324,7 +324,7 @@ KNOWLEDGE GATE <a href="https://www.youtube.com/c/KNOWLEDGEGATE_kg">Playlists</a
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=10 align=center>
+                <td rowspan=10 align="center">
 GeeksforGeeks <a href="https://www.youtube.com/c/GeeksforGeeksVideos">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/GeeksforGeeks.jpg" width="40%">
                 </td>
@@ -368,7 +368,7 @@ GeeksforGeeks <a href="https://www.youtube.com/c/GeeksforGeeksVideos">Playlists<
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Sundeep%20Saradhi%20Kanthety.jpg" width="40%">
                 </td>
@@ -384,7 +384,7 @@ Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Play
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 5 Minutes Engineering <a href="https://www.youtube.com/c/5MinutesEngineering">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/5%20Minutes%20Engineering.jpg" width="40%">
                 </td>
@@ -396,7 +396,7 @@ Sundeep Saradhi Kanthety <a href="https://www.youtube.com/c/SundeepSaradhi">Play
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Tushar Roy - Coding Made Simple <a href="https://www.youtube.com/user/tusharroy2525">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Tushar%20Roy%20-%20Coding%20Made%20Simple.jpg" width="40%">
                 </td>
@@ -416,7 +416,7 @@ Tushar Roy - Coding Made Simple <a href="https://www.youtube.com/user/tusharroy2
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 Back To Back SWE <a href="https://www.youtube.com/c/BackToBackSWE">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Back%20To%20Back%20SWE.jpg" width="40%">
                 </td>
@@ -452,7 +452,7 @@ Back To Back SWE <a href="https://www.youtube.com/c/BackToBackSWE">Playlists</a>
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Simple Snippets <a href="https://www.youtube.com/c/SimpleSnippets">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Simple%20Snippets.jpg" width="40%">
                 </td>
@@ -464,7 +464,7 @@ Simple Snippets <a href="https://www.youtube.com/c/SimpleSnippets">Playlists</a>
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 TheTrevTutor <a href="https://www.youtube.com/c/Trevtutor">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/TheTrevTutor.jpg" width="40%">
                 </td>
@@ -484,7 +484,7 @@ TheTrevTutor <a href="https://www.youtube.com/c/Trevtutor">Playlists</a><br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Unacademy Computer Science <a href="https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Unacademy%20Computer%20Science.jpg" width="40%">
                 </td>
@@ -508,7 +508,7 @@ Unacademy Computer Science <a href="https://www.youtube.com/channel/UCFWCFYvqnAM
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=15 align=center>
+                <td rowspan=15 align="center">
 WilliamFiset <a href="https://www.youtube.com/c/WilliamFiset-videos">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/WilliamFiset.jpg" width="40%">
                 </td>
@@ -572,7 +572,7 @@ WilliamFiset <a href="https://www.youtube.com/c/WilliamFiset-videos">Playlists</
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 Knowledge Center <a href="https://www.youtube.com/c/KnowledgeCenter">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Knowledge%20Center.jpg" width="40%">
                 </td>
@@ -608,7 +608,7 @@ Knowledge Center <a href="https://www.youtube.com/c/KnowledgeCenter">Playlists</
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=22 align=center>
+                <td rowspan=22 align="center">
 TECH DOSE <a href="https://www.youtube.com/c/TECHDOSE4u">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/TECH%20DOSE.jpg" width="40%">
                 </td>
@@ -700,7 +700,7 @@ TECH DOSE <a href="https://www.youtube.com/c/TECHDOSE4u">Playlists</a><br>
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=10 align=center>
+                <td rowspan=10 align="center">
 Vivekanand Khyade - Algorithm Every Day <a href="https://www.youtube.com/user/vivekanandkhyade">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Vivekanand%20Khyade%20-%20Algorithm%20Every%20Day.jpg" width="40%">
                 </td>
@@ -744,7 +744,7 @@ Vivekanand Khyade - Algorithm Every Day <a href="https://www.youtube.com/user/vi
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Online Lectures in Nepali <a href="https://www.youtube.com/channel/UCvc1Xg1qWSfQptoCEq13pEA">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Online%20Lectures%20in%20Nepali.jpg" width="40%">
                 </td>
@@ -768,7 +768,7 @@ Online Lectures in Nepali <a href="https://www.youtube.com/channel/UCvc1Xg1qWSfQ
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=12 align=center>
+                <td rowspan=12 align="center">
 Sarada Herke <a href="https://www.youtube.com/c/SaradaHerke">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Sarada%20Herke.jpg" width="40%">
                 </td>
@@ -820,7 +820,7 @@ Sarada Herke <a href="https://www.youtube.com/c/SaradaHerke">Playlists</a><br>
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=13 align=center>
+                <td rowspan=13 align="center">
 Byte by Byte <a href="https://www.youtube.com/c/ByteByByte">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Byte%20by%20Byte.jpg" width="40%">
                 </td>
@@ -876,7 +876,7 @@ Byte by Byte <a href="https://www.youtube.com/c/ByteByByte">Playlists</a><br>
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 CSE GURUS <a href="https://www.youtube.com/c/CSEGURUS">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/CSE%20GURUS.jpg" width="40%">
                 </td>
@@ -892,7 +892,7 @@ CSE GURUS <a href="https://www.youtube.com/c/CSEGURUS">Playlists</a><br>
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=12 align=center>
+                <td rowspan=12 align="center">
 Nargish Gupta <a href="https://www.youtube.com/c/NargishGupta">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Nargish%20Gupta.jpg" width="40%">
                 </td>
@@ -944,7 +944,7 @@ Nargish Gupta <a href="https://www.youtube.com/c/NargishGupta">Playlists</a><br>
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Wrath of Math <a href="https://www.youtube.com/c/WrathofMath">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Wrath%20of%20Math.jpg" width="40%">
                 </td>
@@ -972,7 +972,7 @@ Wrath of Math <a href="https://www.youtube.com/c/WrathofMath">Playlists</a><br>
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=16 align=center>
+                <td rowspan=16 align="center">
 Code Ncode <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Code%20Ncode.jpg" width="40%">
                 </td>
@@ -1040,7 +1040,7 @@ Code Ncode <a href="https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ">Pl
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 itechnica <a href="https://www.youtube.com/c/itechnica">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/itechnica.jpg" width="40%">
                 </td>
@@ -1056,7 +1056,7 @@ itechnica <a href="https://www.youtube.com/c/itechnica">Playlists</a><br>
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Computer Shastra <a href="https://www.youtube.com/channel/UCtd_5pf66ceyAtj9dpF4rfQ">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Computer%20Shastra.jpg" width="40%">
                 </td>
@@ -1068,7 +1068,7 @@ Computer Shastra <a href="https://www.youtube.com/channel/UCtd_5pf66ceyAtj9dpF4r
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Math at Andrews <a href="https://www.youtube.com/c/MathatAndrews">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Math%20at%20Andrews.jpg" width="40%">
                 </td>
@@ -1088,7 +1088,7 @@ Math at Andrews <a href="https://www.youtube.com/c/MathatAndrews">Playlists</a><
                 <td align="center">1</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 OnlineTeacher <a href="https://www.youtube.com/channel/UCVMu7lq-6wjIMz3g49EUUWQ">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/OnlineTeacher.jpg" width="40%">
                 </td>
@@ -1112,7 +1112,7 @@ OnlineTeacher <a href="https://www.youtube.com/channel/UCVMu7lq-6wjIMz3g49EUUWQ"
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Exam Aasaan Hai <a href="https://www.youtube.com/c/ExamAasaanHai">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Exam%20Aasaan%20Hai.jpg" width="40%">
                 </td>
@@ -1136,7 +1136,7 @@ Exam Aasaan Hai <a href="https://www.youtube.com/c/ExamAasaanHai">Playlists</a><
                 <td align="center">3</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Easy Theory <a href="https://www.youtube.com/c/EasyTheory">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Easy%20Theory.jpg" width="40%">
                 </td>
@@ -1160,7 +1160,7 @@ Easy Theory <a href="https://www.youtube.com/c/EasyTheory">Playlists</a><br>
                 <td align="center">35</td>
             </tr>
             <tr>
-                <td rowspan=14 align=center>
+                <td rowspan=14 align="center">
 Dinesh Varyani <a href="https://www.youtube.com/c/hubberspot/playlists">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Dinesh%20Varyani.jpg" width="40%">
                 </td>
@@ -1220,7 +1220,7 @@ Dinesh Varyani <a href="https://www.youtube.com/c/hubberspot/playlists">Playlist
                 <td align="center">35</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 codebix <a href="https://www.youtube.com/channel/UCZJRtZh8O6FKWH49YLapAbQ">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/codebix.jpg" width="40%">
                 </td>
@@ -1236,7 +1236,7 @@ codebix <a href="https://www.youtube.com/channel/UCZJRtZh8O6FKWH49YLapAbQ">Playl
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=14 align=center>
+                <td rowspan=14 align="center">
 Coding Simplified <a href="https://www.youtube.com/c/CodingSimplified">Playlists</a><br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/Coding%20Simplified.jpg" width="40%">
                 </td>

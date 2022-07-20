@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Requirements Engineering: Secure Software Specifications
 <a href="https://www.coursera.org/specializations/requirements-engineering-secure-software">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -37,7 +37,7 @@ Requirements Engineering: Secure Software Specifications
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Fundamentals of Computer Network Security
 <a href="https://www.coursera.org/specializations/computer-network-security">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -58,7 +58,7 @@ Fundamentals of Computer Network Security
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Java Programming and Software Engineering Fundamentals
 <a href="https://www.coursera.org/specializations/java-programming">Specialization</a> by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
@@ -83,7 +83,7 @@ Java Programming and Software Engineering Fundamentals
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Software Design and Architecture
 <a href="https://www.coursera.org/specializations/software-design-architecture">Specialization</a> by University of Alberta<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20alberta.jpg" width="40%">
@@ -104,7 +104,7 @@ Software Design and Architecture
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Secure Software Design
 <a href="https://www.coursera.org/specializations/secure-software-design">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -125,7 +125,7 @@ Secure Software Design
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Systems Engineering by UNSW Sydney (The University of New South Wales)<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/unsw%20sydney%20(the%20university%20of%20new%20south%20wales).jpg" width="40%">
                 </td>
@@ -133,7 +133,7 @@ Introduction to Systems Engineering by UNSW Sydney (The University of New South 
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Software Development Lifecycle
 <a href="https://www.coursera.org/specializations/software-development-lifecycle">Specialization</a> by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
@@ -154,7 +154,7 @@ Software Development Lifecycle
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Introduction to Application Development
 <a href="https://www.coursera.org/specializations/beginning-application-developer">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -175,7 +175,7 @@ Introduction to Application Development
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Software Testing and Automation
 <a href="https://www.coursera.org/specializations/software-testing-automation">Specialization</a> by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
@@ -196,7 +196,7 @@ Software Testing and Automation
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Test-Driven Development
 <a href="https://www.coursera.org/specializations/test-driven-development">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -217,7 +217,7 @@ Test-Driven Development
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Introduction to Computer Information Systems
 <a href="https://www.coursera.org/specializations/introduction-computer-infosystems">Specialization</a> by University of California Irvine<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20irvine.jpg" width="40%">
@@ -234,7 +234,7 @@ Introduction to Computer Information Systems
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Information Systems
 <a href="https://www.coursera.org/specializations/information-systems">Specialization</a> by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
@@ -255,7 +255,7 @@ Information Systems
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Modern Application Development with Node.js on AWS
 <a href="https://www.coursera.org/specializations/aws-nodejs-serverless-development">Specialization</a> by Amazon Web Services<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
@@ -272,7 +272,7 @@ Modern Application Development with Node.js on AWS
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Modern Application Development with .NET on AWS
 <a href="https://www.coursera.org/specializations/aws-net-serverless-development">Specialization</a> by Amazon Web Services<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
@@ -289,7 +289,7 @@ Modern Application Development with .NET on AWS
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 HTML, CSS, and Javascript for Web Developers by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
@@ -297,7 +297,7 @@ HTML, CSS, and Javascript for Web Developers by Johns Hopkins University<br>
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 How To Create a Website in a Weekend! (Project-Centered Course) by The State University of New York<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
                 </td>
@@ -305,7 +305,7 @@ How To Create a Website in a Weekend! (Project-Centered Course) by The State Uni
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Kotlin for Java Developers by JetBrains<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/jetbrains.jpg" width="40%">
                 </td>
@@ -313,7 +313,7 @@ Kotlin for Java Developers by JetBrains<br>
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Developing Android Apps with App Inventor by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
@@ -321,7 +321,7 @@ Developing Android Apps with App Inventor by The Hong Kong University of Science
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 C# Programming for Unity Game Development
 <a href="https://www.coursera.org/specializations/programming-unity-game-development">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -346,7 +346,7 @@ C# Programming for Unity Game Development
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 C++ Programming for Unreal Game Development
 <a href="https://www.coursera.org/specializations/cplusplusunrealgamedevelopment">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">

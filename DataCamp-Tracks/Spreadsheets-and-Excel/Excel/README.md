@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/data-analysis-in-excel">Data Analysis in Excel</a><br>
                 <td align="left">Exploring Data</td>
                 <td rowspan=3 align="center">4</td>

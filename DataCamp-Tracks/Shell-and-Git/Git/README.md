@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-git">Introduction to Git</a><br>
                 <td align="left">Basic workflow</td>
                 <td rowspan=5 align="center">4</td>

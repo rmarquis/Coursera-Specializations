@@ -20,7 +20,7 @@ Theory tracks road map for computer science students, which including the follow
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-science-for-business">Data Science for Business</a><br>
                 <td align="left">Introduction to Data Science</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Prediction</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-science-for-everyone">Data Science for Everyone</a><br>
                 <td align="left">Introduction to Data Science</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Experimentation and Prediction</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-for-business">Machine Learning for Business</a><br>
                 <td align="left">Machine learning and data use cases</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Managing machine learning projects</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/machine-learning-for-everyone">Machine Learning for Everyone</a><br>
                 <td align="left">What is Machine Learning?</td>
                 <td rowspan=3 align="center">4</td>
@@ -89,7 +89,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Deep Learning</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-visualization-for-everyone">Data Visualization for Everyone</a><br>
                 <td align="left">Visualizing distributions</td>
                 <td rowspan=4 align="center">4</td>
@@ -107,7 +107,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">99 problems but a plot ain't one of them</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/data-engineering-for-everyone">Data Engineering for Everyone</a><br>
                 <td align="left">What is data engineering?</td>
                 <td rowspan=3 align="center">2</td>
@@ -122,7 +122,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Moving and processing data</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/cloud-computing-for-everyone">Cloud Computing for Everyone</a><br>
                 <td align="left">Introduction to Cloud Computing</td>
                 <td rowspan=3 align="center">2</td>
@@ -137,7 +137,7 @@ Theory tracks road map for computer science students, which including the follow
                 <td align="left">Cloud Providers and Case Studies</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-driven-decision-making">Data Driven Decision Making</a><br>
                 <td align="left">Data-Driven Decision-Making Framework</td>
                 <td rowspan=4 align="center">2</td>

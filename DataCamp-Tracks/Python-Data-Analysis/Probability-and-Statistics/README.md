@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/foundations-of-probability-in-python">Foundations of Probability in Python</a><br>
                 <td align="left">Let's start flipping coins</td>
                 <td rowspan=4 align="center">5</td>
@@ -38,7 +38,7 @@
                 <td align="left">Probability meets statistics</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-statistics-in-python">Introduction to Statistics in Python</a><br>
                 <td align="left">Summary Statistics</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Correlation and Experimental Design</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/statistical-simulation-in-python">Statistical Simulation in Python</a><br>
                 <td align="left">Basics of randomness & simulation</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Advanced Applications of Simulation</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1">Statistical Thinking in Python (Part 1)</a><br>
                 <td align="left">Graphical exploratory data analysis</td>
                 <td rowspan=4 align="center">3</td>
@@ -92,7 +92,7 @@
                 <td align="left">Thinking probabilistically-- Continuous variables</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2">Statistical Thinking in Python (Part 2)</a><br>
                 <td align="left">Parameter estimation by optimization</td>
                 <td rowspan=5 align="center">4</td>
@@ -113,7 +113,7 @@
                 <td align="left">Putting it all together: a case study</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-linear-modeling-in-python">Introduction to Linear Modeling in Python</a><br>
                 <td align="left">Exploring Linear Trends</td>
                 <td rowspan=4 align="center">4</td>
@@ -131,7 +131,7 @@
                 <td align="left">Estimating Model Parameters</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python">Introduction to Network Analysis in Python</a><br>
                 <td align="left">Introduction to networks</td>
                 <td rowspan=4 align="center">4</td>
@@ -149,7 +149,7 @@
                 <td align="left">Bringing it all together</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-network-analysis-in-python">Intermediate Network Analysis in Python</a><br>
                 <td align="left">Bipartite graphs & product recommendation systems</td>
                 <td rowspan=4 align="center">4</td>
@@ -167,7 +167,7 @@
                 <td align="left">Tying it up!</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/generalized-linear-models-in-python">Generalized Linear Models in Python</a><br>
                 <td align="left">Introduction to GLMs</td>
                 <td rowspan=4 align="center">5</td>
@@ -185,7 +185,7 @@
                 <td align="left">Multivariable Logistic Regression</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/practicing-statistics-interview-questions-in-python">Practicing Statistics Interview Questions in Python</a><br>
                 <td align="left">Probability and Sampling Distributions</td>
                 <td rowspan=4 align="center">4</td>
@@ -203,7 +203,7 @@
                 <td align="left">Regression and Classification</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/experimental-design-in-python">Experimental Design in Python</a><br>
                 <td align="left">The Basics of Statistical Hypothesis Testing</td>
                 <td rowspan=4 align="center">4</td>
@@ -221,7 +221,7 @@
                 <td align="left">Testing Normality: Parametric and Non-parametric Tests</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/case-studies-in-statistical-thinking">Case Studies in Statistical Thinking</a><br>
                 <td align="left">Fish sleep and bacteria growth: A review of Statistical Thinking I and II</td>
                 <td rowspan=5 align="center">4</td>
@@ -242,7 +242,7 @@
                 <td align="left">Earthquakes and oil mining in Oklahoma</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/customer-analytics-and-ab-testing-in-python">Customer Analytics and A/B Testing in Python</a><br>
                 <td align="left">Key Performance Indicators: Measuring Business Success</td>
                 <td rowspan=4 align="center">4</td>
@@ -260,7 +260,7 @@
                 <td align="left">Analyzing A/B Testing Results</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/time-series-analysis-in-python">Time Series Analysis in Python</a><br>
                 <td align="left">Correlation and Autocorrelation</td>
                 <td rowspan=5 align="center">4</td>

@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 <a href="https://learn.datacamp.com/courses/data-analysis-in-spreadsheets">Data Analysis in Spreadsheets</a><br>
                 <td align="left">Predefined functions</td>
                 <td rowspan=2 align="center">3</td>
@@ -32,7 +32,7 @@
                 <td align="left">Conditional functions and lookups</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 <a href="https://www.datacamp.com/courses/introduction-to-spreadsheets">Introduction to Spreadsheets</a><br>
                 <td align="left">Getting started</td>
                 <td rowspan=2 align="center">2</td>
@@ -44,7 +44,7 @@
                 <td align="left">References</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-spreadsheets">Intermediate Spreadsheets</a><br>
                 <td align="left">What's in a cell?</td>
                 <td rowspan=4 align="center">4</td>
@@ -62,7 +62,7 @@
                 <td align="left">Positional Matching</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-statistics-in-spreadsheets">Introduction to Statistics in Spreadsheets</a><br>
                 <td align="left">Getting To Know Your Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -80,7 +80,7 @@
                 <td align="left">Case Study: Dating Profile Analysis</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/error-and-uncertainty-in-spreadsheets">Error and Uncertainty in Spreadsheets</a><br>
                 <td align="left">Defining error, uncertainty, and risk</td>
                 <td rowspan=4 align="center">4</td>
@@ -98,7 +98,7 @@
                 <td align="left">Case study: Should you change your bakery's menu?</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/conditional-formatting-in-spreadsheets">Conditional Formatting in Spreadsheets</a><br>
                 <td align="left">A Primer on Conditional Formatting</td>
                 <td rowspan=4 align="center">4</td>
@@ -116,7 +116,7 @@
                 <td align="left">Putting It All Together</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/pivot-tables-in-spreadsheets">Pivot Tables in Spreadsheets</a><br>
                 <td align="left">Introduction to Pivot Tables for Google Sheets</td>
                 <td rowspan=4 align="center">4</td>
@@ -134,7 +134,7 @@
                 <td align="left">Editing Data and Troubleshooting</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/data-visualization-in-spreadsheets">Data Visualization in Spreadsheets</a><br>
                 <td align="left">Business Intelligence and Using Dashboards</td>
                 <td rowspan=5 align="center">4</td>
@@ -155,7 +155,7 @@
                 <td align="left">Conditional Formatting</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/loan-amortization-in-spreadsheets">Loan Amortization in Spreadsheets</a><br>
                 <td align="left">Introduction to Financial Concepts in Google Sheets</td>
                 <td rowspan=4 align="center">4</td>
@@ -173,7 +173,7 @@
                 <td align="left">Non-standard amortization schedules</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/marketing-analytics-in-spreadsheets">Marketing Analytics in Spreadsheets</a><br>
                 <td align="left">Data Validation for Clean Data Entry</td>
                 <td rowspan=4 align="center">4</td>
@@ -191,7 +191,7 @@
                 <td align="left">Build a Paid Search Campaign Dashboard</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/financial-analytics-in-spreadsheets">Financial Analytics in Spreadsheets</a><br>
                 <td align="left">Monitoring historical prices</td>
                 <td rowspan=4 align="center">4</td>
@@ -209,7 +209,7 @@
                 <td align="left">Benchmarking performance</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/financial-modeling-in-spreadsheets">Financial Modeling in Spreadsheets</a><br>
                 <td align="left">What are Models?</td>
                 <td rowspan=4 align="center">4</td>
@@ -227,7 +227,7 @@
                 <td align="left">Probabilistic Models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/options-trading-in-spreadsheets">Options Trading in Spreadsheets</a><br>
                 <td align="left">Introduction to options</td>
                 <td rowspan=4 align="center">4</td>

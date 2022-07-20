@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-natural-language-processing-in-python">Introduction to Natural Language Processing in Python</a><br>
                 <td align="left">Regular expressions & word tokenization</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Building a "fake news" classifier</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/regular-expressions-in-python">Regular Expressions in Python</a><br>
                 <td align="left">Basic Concepts of String Manipulation</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Advanced Regular Expression Concepts</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/sentiment-analysis-in-python">Sentiment Analysis in Python</a><br>
                 <td align="left">Sentiment Analysis Nuts and Bolts</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Let's Predict the Sentiment</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/natural-language-generation-in-python">Natural Language Generation in Python</a><br>
                 <td align="left">Introduction to sequential data</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Autocomplete your sentences</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/feature-engineering-for-nlp-in-python">Feature Engineering for NLP in Python</a><br>
                 <td align="left">Basic features and readability scores</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">TF-IDF and similarity scores</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/machine-translation-in-python">Machine Translation in Python</a><br>
                 <td align="left">Introduction to machine translation</td>
                 <td rowspan=4 align="center">4</td>
@@ -128,7 +128,7 @@
                 <td align="left">Teacher Forcing and word embeddings</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/spoken-language-processing-in-python">Spoken Language Processing in Python</a><br>
                 <td align="left">Introduction to Spoken Language Processing with Python</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Processing text transcribed from spoken language</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/building-chatbots-in-python">Building Chatbots in Python</a><br>
                 <td align="left">Chatbots 101</td>
                 <td rowspan=4 align="center">4</td>
@@ -164,7 +164,7 @@
                 <td align="left">Dialogue</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/advanced-nlp-with-spacy">Advanced NLP with spaCy</a><br>
                 <td align="left">Finding words, phrases, names and concepts</td>
                 <td rowspan=4 align="center">5</td>

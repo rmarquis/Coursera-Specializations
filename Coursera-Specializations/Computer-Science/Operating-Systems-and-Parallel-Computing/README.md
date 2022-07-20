@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Open Source Software Development, Linux and Git
 <a href="https://www.coursera.org/specializations/oss-development-linux-git">Specialization</a> by The Linux Foundation<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20linux%20foundation.jpg" width="40%">
@@ -33,7 +33,7 @@ Open Source Software Development, Linux and Git
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Learning Linux for LFCA Certification
 <a href="https://www.coursera.org/specializations/linux-for-lfca-certification">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -54,7 +54,7 @@ Learning Linux for LFCA Certification
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Computer Security and Systems Management
 <a href="https://www.coursera.org/specializations/computer-security-systems-management">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -75,7 +75,7 @@ Computer Security and Systems Management
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Computer Communications
 <a href="https://www.coursera.org/specializations/computer-communications">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -96,7 +96,7 @@ Computer Communications
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Google IT Support Profession
 <a href="https://www.coursera.org/professional-certificates/google-it-support">Specialization</a> by Google<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google.jpg" width="40%">
@@ -121,7 +121,7 @@ Google IT Support Profession
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Parallel, Concurrent, and Distributed Programming in Java
 <a href="https://www.coursera.org/specializations/pcdp">Specialization</a> by Rice University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/rice%20university.jpg" width="40%">
@@ -138,7 +138,7 @@ Parallel, Concurrent, and Distributed Programming in Java
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Parallel Computing by Intel
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/intel.jpg" width="40%">
@@ -151,7 +151,7 @@ Parallel Computing by Intel
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Google IT Automation with Python Profession
 <a href="https://www.coursera.org/professional-certificates/google-it-automation">Specialization</a> by Google<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google.jpg" width="40%">
@@ -180,7 +180,7 @@ Google IT Automation with Python Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Core Java
 <a href="https://www.coursera.org/specializations/core-java">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -201,7 +201,7 @@ Core Java
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Object Oriented Java Programming: Data Structures and Beyond
 <a href="https://www.coursera.org/specializations/java-object-oriented">Specialization</a> by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
@@ -226,7 +226,7 @@ Object Oriented Java Programming: Data Structures and Beyond
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Version Control with Git by Atlassian<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/atlassian.jpg" width="40%">
                 </td>
@@ -234,7 +234,7 @@ Version Control with Git by Atlassian<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 The Unix Workbench by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
                 </td>
@@ -242,7 +242,7 @@ The Unix Workbench by Johns Hopkins University<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 How to Manage a Remote Team by GitLab<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/gitlab.jpg" width="40%">
                 </td>
@@ -250,7 +250,7 @@ How to Manage a Remote Team by GitLab<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Essential Cloud Infrastructure: Foundation by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
                 </td>
@@ -258,7 +258,7 @@ Essential Cloud Infrastructure: Foundation by Google Cloud<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Java Testing
 <a href="https://www.coursera.org/specializations/learnquest-java-testing">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -279,7 +279,7 @@ Java Testing
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Java as a Second Language
 <a href="https://www.coursera.org/specializations/java-programming-language">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -296,7 +296,7 @@ Java as a Second Language
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 DevOps by University of California Davis
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20davis.jpg" width="40%">
@@ -309,7 +309,7 @@ DevOps by University of California Davis
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 DevOps by University of Virginia
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20virginia.jpg" width="40%">
@@ -322,7 +322,7 @@ DevOps by University of Virginia
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 DevOps by LearnQuest
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -335,7 +335,7 @@ DevOps by LearnQuest
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Python Scripting for DevOps
 <a href="https://www.coursera.org/specializations/python-scripting-devops">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">

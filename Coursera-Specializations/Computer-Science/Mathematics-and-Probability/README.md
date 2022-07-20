@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Mathematics for Engineers
 <a href="https://www.coursera.org/specializations/mathematics-engineers">Specialization</a> by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -41,7 +41,7 @@ Mathematics for Engineers
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Calculus by The University of Sydney<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20university%20of%20sydney.jpg" width="40%">
                 </td>
@@ -49,7 +49,7 @@ Introduction to Calculus by The University of Sydney<br>
                 <td align="center">55</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to numerical analysis by National Research University Higher School of Economics<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
                 </td>
@@ -57,7 +57,7 @@ Introduction to numerical analysis by National Research University Higher School
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Matrix Methods by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
                 </td>
@@ -65,7 +65,7 @@ Matrix Methods by University of Minnesota<br>
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Mathematics for Machine Learning
 <a href="https://www.coursera.org/specializations/mathematics-machine-learning">Specialization</a> by Imperial College London<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/imperial%20college%20london.jpg" width="40%">
@@ -82,7 +82,7 @@ Mathematics for Machine Learning
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Differential Calculus through Data and Modeling
 <a href="https://www.coursera.org/specializations/differential-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -103,7 +103,7 @@ Differential Calculus through Data and Modeling
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Integral Calculus through Data and Modeling
 <a href="https://www.coursera.org/specializations/integral-calculus-data-modeling">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -124,7 +124,7 @@ Integral Calculus through Data and Modeling
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Precalculus through Data and Modelling
 <a href="https://www.coursera.org/specializations/precalculus-data-modelling">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -141,7 +141,7 @@ Precalculus through Data and Modelling
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Mathematics for Data Science
 <a href="https://www.coursera.org/specializations/mathematics-for-data-science">Specialization</a> by HSE University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/hse%20university.jpg" width="40%">
@@ -162,7 +162,7 @@ Mathematics for Data Science
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Enumerative Combinatorics by National Research University Higher School of Economics<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/national%20research%20university%20higher%20school%20of%20economics.jpg" width="40%">
                 </td>
@@ -170,7 +170,7 @@ Introduction to Enumerative Combinatorics by National Research University Higher
                 <td align="center">110</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 An Intuitive Introduction to Probability by University of Zurich<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20zurich.jpg" width="40%">
                 </td>
@@ -178,7 +178,7 @@ An Intuitive Introduction to Probability by University of Zurich<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Data Science Math Skills by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
                 </td>
@@ -186,7 +186,7 @@ Data Science Math Skills by Duke University<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Statistics by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
                 </td>
@@ -194,7 +194,7 @@ Introduction to Statistics by Stanford University<br>
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Bayesian Statistics
 <a href="https://www.coursera.org/specializations/bayesian-statistics">Specialization</a> by University of California Santa Cruz<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20santa%20cruz.jpg" width="40%">
@@ -219,7 +219,7 @@ Bayesian Statistics
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Statistics with Python
 <a href="https://www.coursera.org/specializations/statistics-with-python">Specialization</a> by University of Michigan<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
@@ -236,7 +236,7 @@ Statistics with Python
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Number Theory by HSE University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/hse%20university.jpg" width="40%">
                 </td>
@@ -244,7 +244,7 @@ Introduction to Number Theory by HSE University<br>
                 <td align="center">35</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
@@ -252,7 +252,7 @@ Fibonacci Numbers and the Golden Ratio by The Hong Kong University of Science an
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Logic by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
                 </td>
@@ -260,7 +260,7 @@ Introduction to Logic by Stanford University<br>
                 <td align="center">50</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to Mathematical Thinking by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
                 </td>
@@ -268,7 +268,7 @@ Introduction to Mathematical Thinking by Stanford University<br>
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Logic for Economists by University of Amsterdam<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20amsterdam.jpg" width="40%">
                 </td>

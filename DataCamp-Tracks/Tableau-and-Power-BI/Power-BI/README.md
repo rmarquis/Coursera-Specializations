@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-power-bi">Introduction to Power BI</a><br>
                 <td align="left">Getting Started with Power BI</td>
                 <td rowspan=3 align="center">4</td>

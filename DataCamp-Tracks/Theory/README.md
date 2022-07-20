@@ -17,16 +17,16 @@ Theory Tracks for computer science students, which including the following main 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -37,16 +37,16 @@ Theory Tracks for computer science students, which including the following main 
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Theory/Theory/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/theory.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

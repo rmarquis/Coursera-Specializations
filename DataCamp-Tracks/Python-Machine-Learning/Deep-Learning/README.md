@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-deep-learning-in-python">Introduction to Deep Learning in Python</a><br>
                 <td align="left">Basics of deep learning and neural networks</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Fine-tuning keras models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-deep-learning-with-keras">Introduction to Deep Learning with Keras</a><br>
                 <td align="left">Introducing Keras</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Advanced Model Architectures</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-deep-learning-with-pytorch">Introduction to Deep Learning with PyTorch</a><br>
                 <td align="left">Introduction to PyTorch</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Using Convolutional Neural Networks</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-tensorflow-in-python">Introduction to TensorFlow in Python</a><br>
                 <td align="left">Introduction to TensorFlow</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">High Level APIs</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python">Recurrent Neural Networks for Language Modeling in Python</a><br>
                 <td align="left">Recurrent Neural Networks and Keras</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Sequence to Sequence Models</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/predicting-ctr-with-machine-learning-in-python">Predicting CTR with Machine Learning in Python</a><br>
                 <td align="left">Introduction to CTR and Basic Techniques</td>
                 <td rowspan=4 align="center">4</td>
@@ -128,7 +128,7 @@
                 <td align="left">Deep Learning</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/image-processing-in-python">Image Processing in Python</a><br>
                 <td align="left">Introducing Image Processing and scikit-image</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Advanced Operations, Detecting Faces and Features</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/image-processing-with-keras-in-python">Image Processing with Keras in Python</a><br>
                 <td align="left">Image Processing With Neural Networks</td>
                 <td rowspan=4 align="center">4</td>
@@ -164,7 +164,7 @@
                 <td align="left">Understanding and Improving Deep Convolutional Networks</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/biomedical-image-analysis-in-python">Biomedical Image Analysis in Python</a><br>
                 <td align="left">Exploration</td>
                 <td rowspan=4 align="center">4</td>
@@ -182,7 +182,7 @@
                 <td align="left">Image Comparison</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/advanced-deep-learning-with-keras">Advanced Deep Learning with Keras</a><br>
                 <td align="left">The Keras Functional API</td>
                 <td rowspan=4 align="center">4</td>

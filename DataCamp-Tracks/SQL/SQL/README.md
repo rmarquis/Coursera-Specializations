@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/analyzing-business-data-in-sql">Analyzing Business Data in SQL</a><br>
                 <td align="left">Revenue, cost, and profit</td>
                 <td rowspan=4 align="center">4</td>
@@ -38,7 +38,7 @@
                 <td align="left">Generating an executive report</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-sql">Introduction to SQL</a><br>
                 <td align="left">Selecting columns</td>
                 <td rowspan=4 align="center">4</td>
@@ -56,7 +56,7 @@
                 <td align="left">Sorting and grouping</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-sql">Intermediate SQL</a><br>
                 <td align="left">We'll take the CASE</td>
                 <td rowspan=4 align="center">4</td>
@@ -74,7 +74,7 @@
                 <td align="left">Window Functions</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/exploratory-data-analysis-in-sql">Exploratory Data Analysis in SQL</a><br>
                 <td align="left">What's in the database?</td>
                 <td rowspan=4 align="center">4</td>
@@ -92,7 +92,7 @@
                 <td align="left">Working with dates and timestamps</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-relational-databases-in-sql">Introduction to Relational Databases in SQL</a><br>
                 <td align="left">Your first database</td>
                 <td rowspan=4 align="center">4</td>
@@ -110,7 +110,7 @@
                 <td align="left">Glue together tables with foreign keys</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/joining-data-in-postgresql">Joining Data in SQL</a><br>
                 <td align="left">Introduction to joins</td>
                 <td rowspan=4 align="center">5</td>
@@ -128,7 +128,7 @@
                 <td align="left">Subqueries</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/reporting-in-sql">Reporting in SQL</a><br>
                 <td align="left">Exploring the Olympics Dataset</td>
                 <td rowspan=4 align="center">4</td>
@@ -146,7 +146,7 @@
                 <td align="left">Complex Calculations</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/applying-sql-to-real-world-problems">Applying SQL to Real-World Problems</a><br>
                 <td align="left">Use Real-World SQL</td>
                 <td rowspan=4 align="center">4</td>
@@ -164,7 +164,7 @@
                 <td align="left">Best Practices for Writing SQL</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/database-design">Database Design</a><br>
                 <td align="left">Processing, Storing, and Organizing Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -182,7 +182,7 @@
                 <td align="left">Database Management</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-driven-decision-making-in-sql">Data-Driven Decision Making in SQL</a><br>
                 <td align="left">Introduction to business intelligence for a online movie rental database</td>
                 <td rowspan=4 align="center">4</td>

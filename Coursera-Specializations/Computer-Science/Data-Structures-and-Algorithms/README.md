@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Introduction to Discrete Mathematics for Computer Science
 <a href="https://www.coursera.org/specializations/discrete-mathematics">Specialization</a> by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
@@ -37,7 +37,7 @@ Introduction to Discrete Mathematics for Computer Science
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Discrete Mathematics by Shanghai Jiao Tong University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/shanghai%20jiao%20tong%20university.jpg" width="40%">
                 </td>
@@ -45,7 +45,7 @@ Discrete Mathematics by Shanghai Jiao Tong University<br>
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Accelerated Computer Science Fundamentals
 <a href="https://www.coursera.org/specializations/cs-fundamentals">Specialization</a> by University of Illinois at Urbana-Champaign<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
@@ -62,7 +62,7 @@ Accelerated Computer Science Fundamentals
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Data Structures and Performance by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
                 </td>
@@ -70,7 +70,7 @@ Data Structures and Performance by University of California San Diego<br>
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Competitive Programming by Moscow Institute of Physics and Technology
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/moscow%20institute%20of%20physics%20and%20technology.jpg" width="40%">
@@ -87,7 +87,7 @@ Competitive Programming by Moscow Institute of Physics and Technology
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Algorithms
 <a href="https://www.coursera.org/specializations/algorithms">Specialization</a> by Stanford University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/stanford%20university.jpg" width="40%">
@@ -108,7 +108,7 @@ Algorithms
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Data Structures and Algorithms
 <a href="https://www.coursera.org/specializations/data-structures-algorithms">Specialization</a> by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
@@ -137,7 +137,7 @@ Data Structures and Algorithms
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Data Structures and Algorithms Specialization
 <a href="https://www.coursera.org/specializations/boulder-data-structures-algorithms">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -154,7 +154,7 @@ Data Structures and Algorithms Specialization
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Algorithms by Princeton University
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/princeton%20university.jpg" width="40%">
@@ -171,7 +171,7 @@ Algorithms by Princeton University
                 <td align="center">65</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Geometric Algorithms by EIT Digital
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/eit%20digital.jpg" width="40%">
@@ -184,7 +184,7 @@ Geometric Algorithms by EIT Digital
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Computational Geometry by Saint Petersburg State University
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/saint%20petersburg%20state%20university.jpg" width="40%">
@@ -197,7 +197,7 @@ Computational Geometry by Saint Petersburg State University
                 <td align="center">30</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Computer Science: Algorithms, Theory, and Machines by Princeton University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/princeton%20university.jpg" width="40%">
                 </td>

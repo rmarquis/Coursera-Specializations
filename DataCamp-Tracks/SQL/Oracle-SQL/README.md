@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://www.datacamp.com/courses/introduction-to-oracle-sql">Introduction to Oracle SQL</a><br>
                 <td align="left">SQL Basics</td>
                 <td rowspan=4 align="center">4</td>

@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Responsive Website Development and Design
 <a href="https://www.coursera.org/specializations/website-development">Specialization</a> by University of London<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20london.jpg" width="40%">
@@ -41,7 +41,7 @@ Responsive Website Development and Design
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Web Design for Everybody: Basics of Web Development & Coding
 <a href="https://www.coursera.org/specializations/web-design">Specialization</a> by University of Michigan<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
@@ -66,7 +66,7 @@ Web Design for Everybody: Basics of Web Development & Coding
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Django for Everybody
 <a href="https://www.coursera.org/specializations/django">Specialization</a> by University of Michigan<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
@@ -87,7 +87,7 @@ Django for Everybody
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Full Stack Web and Multiplatform Mobile App Development
 <a href="https://www.coursera.org/specializations/full-stack-mobile-app-development">Specialization</a> by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -112,7 +112,7 @@ Full Stack Web and Multiplatform Mobile App Development
                 <td align="center">55</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Full-Stack Web Development with React
 <a href="https://www.coursera.org/specializations/full-stack-react">Specialization</a> by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
@@ -133,7 +133,7 @@ Full-Stack Web Development with React
                 <td align="center">55</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Web Applications for Everybody
 <a href="https://www.coursera.org/specializations/web-applications">Specialization</a> by University of Michigan<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
@@ -154,7 +154,7 @@ Web Applications for Everybody
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Android App Development
 <a href="https://www.coursera.org/specializations/android-app-development">Specialization</a> by Vanderbilt University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/vanderbilt%20university.jpg" width="40%">
@@ -179,7 +179,7 @@ Android App Development
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Advanced App Development in Android
 <a href="https://www.coursera.org/specializations/advanced-app-android">Specialization</a> by Imperial College London<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/imperial%20college%20london.jpg" width="40%">
@@ -200,7 +200,7 @@ Advanced App Development in Android
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Mobile Interaction Design: How to Design Usable Mobile Products and Services by HSE University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/hse%20university.jpg" width="40%">
                 </td>
@@ -208,7 +208,7 @@ Mobile Interaction Design: How to Design Usable Mobile Products and Services by 
                 <td align="center">120</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 iOS Development for Creative Entrepreneurs
 <a href="https://www.coursera.org/specializations/ios-development">Specialization</a> by University of California Irvine<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20irvine.jpg" width="40%">
@@ -237,7 +237,7 @@ iOS Development for Creative Entrepreneurs
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Swift 5 iOS Application Developer
 <a href="https://www.coursera.org/specializations/swift-5-ios-app-developer">Specialization</a> by LearnQuest<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/learnquest.jpg" width="40%">
@@ -258,7 +258,7 @@ Swift 5 iOS Application Developer
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 iOS App Development with Swift
 <a href="https://www.coursera.org/specializations/app-development">Specialization</a> by University of Toronto<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20toronto.jpg" width="40%">
@@ -279,7 +279,7 @@ iOS App Development with Swift
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=2 align=center>
+                <td rowspan=2 align="center">
 Programming Mobile Applications for Android Handheld Systems by University of Maryland College Park
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20maryland%20college%20park.jpg" width="40%">
@@ -292,7 +292,7 @@ Programming Mobile Applications for Android Handheld Systems by University of Ma
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Game Design: Art and Concepts
 <a href="https://www.coursera.org/specializations/game-design">Specialization</a> by California Institute of the Arts<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/california%20institute%20of%20the%20arts.jpg" width="40%">
@@ -317,7 +317,7 @@ Game Design: Art and Concepts
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Unity XR: How to Build AR and VR Apps
 <a href="https://www.coursera.org/specializations/unity-xr">Specialization</a> by Unity<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/unity.jpg" width="40%">
@@ -334,7 +334,7 @@ Unity XR: How to Build AR and VR Apps
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Unity Certified Programmer Exam Preparation
 <a href="https://www.coursera.org/specializations/unity-certified-programmer">Specialization</a> by Unity<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/unity.jpg" width="40%">
@@ -355,7 +355,7 @@ Unity Certified Programmer Exam Preparation
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Unity Certified 3D Artist
 <a href="https://www.coursera.org/specializations/unity-3d-artist">Specialization</a> by Unity<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/unity.jpg" width="40%">
@@ -380,7 +380,7 @@ Unity Certified 3D Artist
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Game Design and Development
 <a href="https://www.coursera.org/specializations/game-development">Specialization</a> by Michigan State University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/michigan%20state%20university.jpg" width="40%">
@@ -405,7 +405,7 @@ Game Design and Development
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Art for Games
 <a href="https://www.coursera.org/specializations/art-for-games">Specialization</a> by Michigan State University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/michigan%20state%20university.jpg" width="40%">
@@ -426,7 +426,7 @@ Art for Games
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Game Design and Development with Unity 2020
 <a href="https://www.coursera.org/specializations/game-design-and-development">Specialization</a> by Michigan State University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/michigan%20state%20university.jpg" width="40%">
@@ -451,7 +451,7 @@ Game Design and Development with Unity 2020
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Introduction to User Experience Design by Georgia Institute of Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/georgia%20institute%20of%20technology.jpg" width="40%">
                 </td>
@@ -459,7 +459,7 @@ Introduction to User Experience Design by Georgia Institute of Technology<br>
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 User Experience Research and Design
 <a href="https://www.coursera.org/specializations/michiganux">Specialization</a> by University of Michigan<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20michigan.jpg" width="40%">
@@ -488,7 +488,7 @@ User Experience Research and Design
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 Interaction Design
 <a href="https://www.coursera.org/specializations/interaction-design">Specialization</a> by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
@@ -525,7 +525,7 @@ Interaction Design
                 <td align="center">40</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 UI / UX Design
 <a href="https://www.coursera.org/specializations/ui-ux-design">Specialization</a> by California Institute of the Arts<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/california%20institute%20of%20the%20arts.jpg" width="40%">
@@ -546,7 +546,7 @@ UI / UX Design
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 Google UX Design Profession
 <a href="https://www.coursera.org/professional-certificates/google-ux-design">Specialization</a> by Google<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google.jpg" width="40%">
@@ -579,7 +579,7 @@ Google UX Design Profession
                 <td align="center">50</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 User Interface Design
 <a href="https://www.coursera.org/specializations/user-interface-design">Specialization</a> by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
@@ -600,7 +600,7 @@ User Interface Design
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Graphic Design
 <a href="https://www.coursera.org/specializations/graphic-design">Specialization</a> by California Institute of the Arts<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/california%20institute%20of%20the%20arts.jpg" width="40%">
@@ -625,7 +625,7 @@ Graphic Design
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Building Your Freelancing Career
 <a href="https://www.coursera.org/specializations/freelancing">Specialization</a> by California Institute of the Arts<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/california%20institute%20of%20the%20arts.jpg" width="40%">

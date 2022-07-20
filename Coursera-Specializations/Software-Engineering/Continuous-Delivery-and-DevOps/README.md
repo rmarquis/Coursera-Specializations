@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Coding for Designers, Managers, and Entrepreneurs
 <a href="https://www.coursera.org/specializations/coding-for-managers">Specialization</a> by University of Virginia<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20virginia.jpg" width="40%">
@@ -29,7 +29,7 @@ Coding for Designers, Managers, and Entrepreneurs
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Developing Applications with Google Cloud
 <a href="https://www.coursera.org/specializations/developing-apps-gcp">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -50,7 +50,7 @@ Developing Applications with Google Cloud
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Installing and Managing Google Clouds Apigee API Platform for Private Cloud
 <a href="https://www.coursera.org/specializations/apigee-api-gcp-onprem">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -67,7 +67,7 @@ Installing and Managing Google Clouds Apigee API Platform for Private Cloud
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Networking in Google Cloud
 <a href="https://www.coursera.org/specializations/networking-google-cloud-platform">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -84,7 +84,7 @@ Networking in Google Cloud
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Security in Google Cloud
 <a href="https://www.coursera.org/specializations/security-google-cloud-platform">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -105,7 +105,7 @@ Security in Google Cloud
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=10 align=center>
+                <td rowspan=10 align="center">
 IBM Full Stack Cloud Developer Profession
 <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -150,7 +150,7 @@ IBM Full Stack Cloud Developer Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=13 align=center>
+                <td rowspan=13 align="center">
 IBM DevOps and Software Engineering Profession
 <a href="https://www.coursera.org/professional-certificates/devops-and-software-engineering">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -207,7 +207,7 @@ IBM DevOps and Software Engineering Profession
                 <td align="center">0</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 AWS Fundamentals
 <a href="https://www.coursera.org/specializations/aws-fundamentals">Specialization</a> by Amazon Web Services<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
@@ -228,7 +228,7 @@ AWS Fundamentals
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 DevOps on AWS
 <a href="https://www.coursera.org/specializations/aws-devops">Specialization</a> by Amazon Web Services<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
@@ -249,7 +249,7 @@ DevOps on AWS
                 <td align="center">5</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Architecting with Google Kubernetes Engine
 <a href="https://www.coursera.org/specializations/architecting-google-kubernetes-engine">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -270,7 +270,7 @@ Architecting with Google Kubernetes Engine
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Cloud Computing
 <a href="https://www.coursera.org/specializations/cloud-computing">Specialization</a> by University of Illinois at Urbana-Champaign<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
@@ -299,7 +299,7 @@ Cloud Computing
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Preparing for Google Cloud Certification: Cloud DevOps Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -324,7 +324,7 @@ Preparing for Google Cloud Certification: Cloud DevOps Engineer Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Software Product Management
 <a href="https://www.coursera.org/specializations/product-management">Specialization</a> by University of Alberta<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20alberta.jpg" width="40%">
@@ -353,7 +353,7 @@ Software Product Management
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Building Cloud Computing Solutions at Scale
 <a href="https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale">Specialization</a> by Duke University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/duke%20university.jpg" width="40%">
@@ -374,7 +374,7 @@ Building Cloud Computing Solutions at Scale
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Cloud Operations on AWS by Amazon Web Services
 <br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/amazon%20web%20services.jpg" width="40%">
@@ -403,7 +403,7 @@ Cloud Operations on AWS by Amazon Web Services
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Advanced System Security Design
 <a href="https://www.coursera.org/specializations/advanced-system-security-design">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -424,7 +424,7 @@ Advanced System Security Design
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Preparing for Google Cloud Certification: Cloud Network Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/google-cloud-networking">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -445,7 +445,7 @@ Preparing for Google Cloud Certification: Cloud Network Engineer Profession
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=6 align=center>
+                <td rowspan=6 align="center">
 Preparing for Google Cloud Certification: Cloud Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/cloud-engineering-gcp">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -474,7 +474,7 @@ Preparing for Google Cloud Certification: Cloud Engineer Profession
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 Preparing for Google Cloud Certification: Cloud Architect Profession
 <a href="https://www.coursera.org/professional-certificates/gcp-cloud-architect">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">
@@ -507,7 +507,7 @@ Preparing for Google Cloud Certification: Cloud Architect Profession
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=7 align=center>
+                <td rowspan=7 align="center">
 Preparing for Google Cloud Certification: Cloud Security Engineer Profession
 <a href="https://www.coursera.org/professional-certificates/google-cloud-security">Specialization</a> by Google Cloud<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google%20cloud.jpg" width="40%">

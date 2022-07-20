@@ -17,28 +17,28 @@ Tableau and Power BI Tracks for computer science students, which including the f
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Tableau/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/tableau.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -48,28 +48,28 @@ Tableau and Power BI Tracks for computer science students, which including the f
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Tableau-and-Power-BI/Power-BI/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/power-bi.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>

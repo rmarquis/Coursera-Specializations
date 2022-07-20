@@ -20,7 +20,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/introduction-to-importing-data-in-python">Introduction to Importing Data in Python</a><br>
                 <td align="left">Introduction and flat files</td>
                 <td rowspan=3 align="center">3</td>
@@ -35,7 +35,7 @@
                 <td align="left">Working with relational databases in Python</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 <a href="https://learn.datacamp.com/courses/intermediate-importing-data-in-python">Intermediate Importing Data in Python</a><br>
                 <td align="left">Importing data from the Internet</td>
                 <td rowspan=3 align="center">2</td>
@@ -50,7 +50,7 @@
                 <td align="left">Diving deep into the Twitter API</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/streamlined-data-ingestion-with-pandas">Streamlined Data Ingestion with pandas</a><br>
                 <td align="left">Importing Data from Flat Files</td>
                 <td rowspan=4 align="center">4</td>
@@ -68,7 +68,7 @@
                 <td align="left">Importing JSON Data and Working with APIs</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/cleaning-data-in-python">Cleaning Data in Python</a><br>
                 <td align="left">Common data problems</td>
                 <td rowspan=4 align="center">4</td>
@@ -86,7 +86,7 @@
                 <td align="left">Record linkage</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/web-scraping-with-python">Web Scraping in Python</a><br>
                 <td align="left">Introduction to HTML</td>
                 <td rowspan=4 align="center">4</td>
@@ -104,7 +104,7 @@
                 <td align="left">Spiders</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/data-manipulation-with-pandas">Data Manipulation with pandas</a><br>
                 <td align="left">Transforming Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -122,7 +122,7 @@
                 <td align="left">Creating and Visualizing DataFrames</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/dealing-with-missing-data-in-python">Dealing with Missing Data in Python</a><br>
                 <td align="left">The Problem With Missing Data</td>
                 <td rowspan=4 align="center">4</td>
@@ -140,7 +140,7 @@
                 <td align="left">Advanced Imputation Techniques</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/joining-data-with-pandas">Joining Data with pandas</a><br>
                 <td align="left">Data Merging Basics</td>
                 <td rowspan=4 align="center">4</td>
@@ -158,7 +158,7 @@
                 <td align="left">Merging Ordered and Time-Series Data</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/manipulating-time-series-data-in-python">Manipulating Time Series Data in Python</a><br>
                 <td align="left">Working with Time Series in Pandas</td>
                 <td rowspan=4 align="center">4</td>
@@ -176,7 +176,7 @@
                 <td align="left">Putting it all together: Building a value-weighted index</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/working-with-dates-and-times-in-python">Working with Dates and Times in Python</a><br>
                 <td align="left">Dates and Calendars</td>
                 <td rowspan=4 align="center">4</td>
@@ -194,7 +194,7 @@
                 <td align="left">Easy and Powerful: Dates and Times in Pandas</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/writing-efficient-code-with-pandas">Writing Efficient Code with pandas</a><br>
                 <td align="left">Selecting columns and rows efficiently</td>
                 <td rowspan=4 align="center">4</td>
@@ -212,7 +212,7 @@
                 <td align="left">Data manipulation using .groupby()</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/pandas-foundations">pandas Foundations</a><br>
                 <td align="left">Data ingestion & inspection</td>
                 <td rowspan=4 align="center">4</td>
@@ -230,7 +230,7 @@
                 <td align="left">Case Study - Sunlight in Austin</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 <a href="https://learn.datacamp.com/courses/manipulating-dataframes-with-pandas">Manipulating DataFrames with pandas</a><br>
                 <td align="left">Extracting and transforming data</td>
                 <td rowspan=5 align="center">4</td>
@@ -251,7 +251,7 @@
                 <td align="left">Bringing it all together</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/merging-dataframes-with-pandas">Merging DataFrames with pandas</a><br>
                 <td align="left">Preparing data</td>
                 <td rowspan=4 align="center">4</td>
@@ -269,7 +269,7 @@
                 <td align="left">Case Study - Summer Olympics</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 <a href="https://learn.datacamp.com/courses/pandas-joins-for-spreadsheet-users">Pandas Joins for Spreadsheet Users</a><br>
                 <td align="left">Introduction to joining data</td>
                 <td rowspan=4 align="center">4</td>

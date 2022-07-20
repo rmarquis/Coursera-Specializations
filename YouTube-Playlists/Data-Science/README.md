@@ -19,52 +19,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Science-and-Business-Analytics/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -74,52 +74,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Analysis-and-Visualization/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -129,52 +129,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Business-Intelligence-and-Data-Management/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -184,52 +184,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Storage-and-Retrieval/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -239,52 +239,52 @@
 <table>
     <tbody>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
-<td align=center width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/Data-Engineering-and-Big-Data/README.md">Template</a></td>
         </tr>
         <tr>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
-<td align=center width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>

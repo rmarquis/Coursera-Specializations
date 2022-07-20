@@ -12,7 +12,7 @@
     </thead>
     <tbody>
             <tr>
-                <td rowspan=8 align=center>
+                <td rowspan=8 align="center">
 Google Data Analytics Profession
 <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Specialization</a> by Google<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/google.jpg" width="40%">
@@ -49,7 +49,7 @@ Google Data Analytics Profession
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Data Science with Databricks for Data Analysts
 <a href="https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts">Specialization</a> by Databricks<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/databricks.jpg" width="40%">
@@ -66,7 +66,7 @@ Data Science with Databricks for Data Analysts
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Data Analysis and Presentation Skills: the PwC Approach
 <a href="https://www.coursera.org/specializations/pwc-analytics">Specialization</a> by PwC<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/pwc.jpg" width="40%">
@@ -91,7 +91,7 @@ Data Analysis and Presentation Skills: the PwC Approach
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Python Data Products for Predictive Analytics
 <a href="https://www.coursera.org/specializations/python-data-products-for-predictive-analytics">Specialization</a> by University of California San Diego<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20california%20san%20diego.jpg" width="40%">
@@ -112,7 +112,7 @@ Python Data Products for Predictive Analytics
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Applied Data Science
 <a href="https://www.coursera.org/specializations/applied-data-science">Specialization</a> by IBM<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/ibm.jpg" width="40%">
@@ -133,7 +133,7 @@ Applied Data Science
                 <td align="center">45</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Python and Statistics for Financial Analysis by The Hong Kong University of Science and Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20hong%20kong%20university%20of%20science%20and%20technology.jpg" width="40%">
                 </td>
@@ -141,7 +141,7 @@ Python and Statistics for Financial Analysis by The Hong Kong University of Scie
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Improving Your Statistical Questions by Eindhoven University of Technology<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/eindhoven%20university%20of%20technology.jpg" width="40%">
                 </td>
@@ -149,7 +149,7 @@ Improving Your Statistical Questions by Eindhoven University of Technology<br>
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Advanced Business Analytics
 <a href="https://www.coursera.org/specializations/data-analytics-business">Specialization</a> by University of Colorado Boulder<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20colorado%20boulder.jpg" width="40%">
@@ -174,7 +174,7 @@ Advanced Business Analytics
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Data Analysis and Interpretation
 <a href="https://www.coursera.org/specializations/data-analysis">Specialization</a> by Wesleyan University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/wesleyan%20university.jpg" width="40%">
@@ -199,7 +199,7 @@ Data Analysis and Interpretation
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Accounting Data Analytics
 <a href="https://www.coursera.org/specializations/accounting-data-analytics">Specialization</a> by University of Illinois at Urbana-Champaign<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20illinois%20at%20urbana-champaign.jpg" width="40%">
@@ -220,7 +220,7 @@ Accounting Data Analytics
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Analytics for Decision Making
 <a href="https://www.coursera.org/specializations/analytics-for-decision-making">Specialization</a> by University of Minnesota<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20minnesota.jpg" width="40%">
@@ -241,7 +241,7 @@ Analytics for Decision Making
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=3 align=center>
+                <td rowspan=3 align="center">
 Data-Driven Decision Making (DDDM)
 <a href="https://www.coursera.org/specializations/data-driven-decision-making">Specialization</a> by University of Buffalo<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20buffalo.jpg" width="40%">
@@ -258,7 +258,7 @@ Data-Driven Decision Making (DDDM)
                 <td align="center">15</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Information Visualization
 <a href="https://www.coursera.org/specializations/information-visualization">Specialization</a> by New York University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/new%20york%20university.jpg" width="40%">
@@ -279,7 +279,7 @@ Information Visualization
                 <td align="center">20</td>
             </tr>
             <tr>
-                <td rowspan=1 align=center>
+                <td rowspan=1 align="center">
 Practical Time Series Analysis by The State University of New York<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/the%20state%20university%20of%20new%20york.jpg" width="40%">
                 </td>
@@ -287,7 +287,7 @@ Practical Time Series Analysis by The State University of New York<br>
                 <td align="center">25</td>
             </tr>
             <tr>
-                <td rowspan=4 align=center>
+                <td rowspan=4 align="center">
 Advanced Statistics for Data Science
 <a href="https://www.coursera.org/specializations/advanced-statistics-data-science">Specialization</a> by Johns Hopkins University<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/johns%20hopkins%20university.jpg" width="40%">
@@ -308,7 +308,7 @@ Advanced Statistics for Data Science
                 <td align="center">10</td>
             </tr>
             <tr>
-                <td rowspan=5 align=center>
+                <td rowspan=5 align="center">
 Methods and Statistics in Social Sciences
 <a href="https://www.coursera.org/specializations/social-science">Specialization</a> by University of Amsterdam<br>
 <img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/org-logos/university%20of%20amsterdam.jpg" width="40%">
