@@ -44,23 +44,3 @@ Data Science Specializations for computer science students, which including the 
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-Bioinformatics Specializations for computer science students, which including the following main topics:
-
-#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Bioinformatics/README.md) Specializations
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
-
-## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
-Operation Research Specializations for computer science students, which including the following main topics:
-
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
-#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
-#### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations
-#### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Operation-Research/README.md) Specializations

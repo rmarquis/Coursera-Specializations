@@ -48,25 +48,3 @@ Data Science Playlists for computer science students, which including the follow
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 #### - [Data Storage and Retrieval](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Data-Science/README.md) Playlists
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-Bioinformatics Playlists for computer science students, which including the following main topics:
-
-#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Software Engineering in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Bioinformatics/README.md) Playlists
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
-
-## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-Operation Research Playlists for computer science students, which including the following main topics:
-
-#### - [Linear and Nonlinear Programming](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-#### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists
-#### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Operation-Research/README.md) Playlists

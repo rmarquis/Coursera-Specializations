@@ -44,23 +44,3 @@ Data Science Nanodegrees for computer science students, which including the foll
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Data-Science/README.md) Nanodegrees
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Data-Science/README.md) Nanodegrees
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Data-Science/README.md) Nanodegrees
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-Bioinformatics Nanodegrees for computer science students, which including the following main topics:
-
-#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Bioinformatics/README.md) Nanodegrees
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
-
-## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Operation-Research/README.md) Nanodegrees
-Operation Research Nanodegrees for computer science students, which including the following main topics:
-
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/blob/master/Operation-Research/README.md) Nanodegrees
-#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Operation-Research/README.md) Nanodegrees
-#### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Operation-Research/README.md) Nanodegrees
-#### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Operation-Research/README.md) Nanodegrees

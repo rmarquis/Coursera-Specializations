@@ -44,23 +44,3 @@ Data Science Programs for computer science students, which including the followi
 #### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 #### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
 #### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Data-Science/README.md) Programs
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bioinformatics-department.jpg">
-
-## [`Bioinformatics`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-Bioinformatics Programs for computer science students, which including the following main topics:
-
-#### - [Fundamentals of Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Computational Drug Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Data Science in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-#### - [Artificial Intelligence in Healthcare](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Bioinformatics/README.md) Programs
-
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/operation-research-department.jpg">
-
-## [`Operation Research`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Operation-Research/README.md) Programs
-Operation Research Programs for computer science students, which including the following main topics:
-
-#### - [Operation Research and Decision Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/blob/master/Operation-Research/README.md) Programs
-#### - [Dynamic Programming and Stochastic Models](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs
-#### - [Reinforcement Learning and Game Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs
-#### - [Systems Project Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Edx-Programs/tree/master/Operation-Research/README.md) Programs

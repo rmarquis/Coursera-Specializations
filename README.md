@@ -14,8 +14,6 @@ eLearning Platforms for computer science students.
 ### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
 ### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-### - [Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-### - [Operation Research](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg"></img>
@@ -26,8 +24,6 @@ eLearning Platforms for computer science students.
 ### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
 ### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
-### - [Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
-### - [Operation Research](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/khanacademy.jpg"></img>
@@ -63,8 +59,6 @@ eLearning Platforms for computer science students.
 ### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
 ### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
-### - [Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
-### - [Operation Research](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg"></img>
@@ -75,8 +69,6 @@ eLearning Platforms for computer science students.
 ### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
 ### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-### - [Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-### - [Operation Research](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg"></img>
@@ -87,8 +79,6 @@ eLearning Platforms for computer science students.
 ### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
 ### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
-### - [Bioinformatics](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
-### - [Operation Research](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/freecodecamp.jpg"></img>
