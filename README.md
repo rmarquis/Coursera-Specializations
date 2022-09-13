@@ -28,7 +28,7 @@ eLearning Platforms for computer science students.
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/khanacademy.jpg"></img>
 
-## - [Khan Academy Courses](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Khan-Academy-Courses/README.md)
+## [`Khan Academy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Khan-Academy-Courses/README.md)
 
 <br><br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg"></img>
