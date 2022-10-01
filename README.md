@@ -1,11 +1,22 @@
-<img align="right" width="300" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/elearning-platforms.jpg"></img>
+<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/elearning-platforms.jpg"></img>
 
 # eLearning Platforms
 eLearning Platforms for computer science students.
 
-<br><br><br><br><br>
+<br><br><br>
 
-<br><br>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/youtube.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/khanacademy.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udemy.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udacity.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/codeacademy.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/edx.jpg"></img>
+<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/freecodecamp.jpg"></img>
+<br><br><br><br>
+
+<br>
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/youtube.jpg"></img>
 
 ## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md)
