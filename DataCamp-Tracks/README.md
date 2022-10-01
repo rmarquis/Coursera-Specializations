@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
 
 # [DataCamp](https://learn.datacamp.com/) Tracks
 DataCamp Tracks road map for computer science students.

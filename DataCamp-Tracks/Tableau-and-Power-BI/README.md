@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
 
 # Tableau and Power-BI Tracks
 Tableau and Power BI Tracks for computer science students, which including the following main topics:

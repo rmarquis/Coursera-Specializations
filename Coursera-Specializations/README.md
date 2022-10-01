@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
 
 # [Coursera](https://www.coursera.org/) Specializations
 Coursera Specializations for computer science students.

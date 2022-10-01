@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udemy.jpg"></img>
 
 # [Udemy](https://www.udemy.com/) Courses
 Udemy Courses for computer science students.

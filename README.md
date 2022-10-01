@@ -6,7 +6,7 @@ eLearning Platforms for computer science students.
 <br><br><br><br><br>
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/youtube.jpg"></img>
 
 ## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md)
 
@@ -16,7 +16,7 @@ eLearning Platforms for computer science students.
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
 
 ## [`Coursera Specializations`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md)
 
@@ -26,12 +26,12 @@ eLearning Platforms for computer science students.
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/khanacademy.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/khanacademy.jpg"></img>
 
 ## [`Khan Academy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Khan-Academy-Courses/README.md)
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
 
 ## [`DataCamp Tracks`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md)
 
@@ -46,7 +46,7 @@ eLearning Platforms for computer science students.
 ### - [Shell and Git](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udemy.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udemy.jpg"></img>
 
 ## [`Udemy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md)
 
@@ -56,7 +56,7 @@ eLearning Platforms for computer science students.
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udacity.jpg"></img>
 
 ## [`Udacity Nanodegrees`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md)
 
@@ -66,7 +66,7 @@ eLearning Platforms for computer science students.
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/edx.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/edx.jpg"></img>
 
 ## [`Edx Programs`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md)
 
@@ -76,11 +76,11 @@ eLearning Platforms for computer science students.
 ### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/freecodecamp.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/freecodecamp.jpg"></img>
 
 ## [`freeCodeCamp Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/freeCodeCamp-Courses/README.md)
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/codeacademy.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/codeacademy.jpg"></img>
 
 ## [`codecademy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/codecademy-Courses/README.md)

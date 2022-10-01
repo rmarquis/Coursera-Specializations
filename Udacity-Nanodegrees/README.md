@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/udacity.jpg"></img>
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udacity.jpg"></img>
 
 # [Udacity](https://www.udacity.com/) Nanodegrees
 Udacity Nanodegrees for computer science students.
