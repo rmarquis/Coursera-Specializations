@@ -22,7 +22,7 @@ Computer Science Courses for computer science students, which including the foll
 Software Engineering Courses for computer science students, which including the following main topics:
 
 #### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
-#### - [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
+#### - [Distributed Systems and Software Architecture](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udemy-Courses/tree/master/Software-Engineering/README.md) Courses

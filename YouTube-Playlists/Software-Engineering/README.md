@@ -7,7 +7,7 @@
 
 ## Table of Contents
   * [Fundamentals of Software Engineering Playlists](#Fundamentals-of-Software-Engineering-Playlists)
-  * [Distributed Systems and Cloud Computing Playlists](#Distributed-Systems-and-Cloud-Computing-Playlists)
+  * [Distributed Systems and Software Architecture Playlists](#Distributed-Systems-and-Software-Architecture-Playlists)
   * [Database Systems and Warehousing Playlists](#Database-Systems-and-Warehousing-Playlists)
   * [Continuous Delivery and DevOps Playlists](#Continuous-Delivery-and-DevOps-Playlists)
   * [Web/Mobile/Game Development Playlists](#WebMobileGame-Development-Playlists)
@@ -69,15 +69,15 @@
     </tbody>
 </table>
 
-## [Distributed Systems and Cloud Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md) Playlists
+## [Distributed Systems and Software Architecture](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md) Playlists
 
 <table>
     <tbody>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
         </tr>
         <tr>
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
@@ -86,10 +86,10 @@
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
         </tr>
         <tr>
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
@@ -98,10 +98,10 @@
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
         </tr>
         <tr>
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
@@ -110,10 +110,10 @@
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Cloud-Computing/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
+<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/Distributed-Systems-and-Software-Architecture/README.md">Template</a></td>
         </tr>
         <tr>
 <td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
