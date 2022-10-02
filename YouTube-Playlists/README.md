@@ -22,9 +22,9 @@ Computer Science Playlists for computer science students, which including the fo
 Software Engineering Playlists for computer science students, which including the following main topics:
 
 #### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
-#### - [Distributed Systems and Software Architecture](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
-#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
+#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
+#### - [Distributed Systems and Software Architecture](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/YouTube-Playlists/Software-Engineering/README.md) Playlists
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
