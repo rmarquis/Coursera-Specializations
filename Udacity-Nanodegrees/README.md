@@ -21,8 +21,8 @@ Computer Science Nanodegrees for computer science students, which including the 
 Software Engineering Nanodegrees for computer science students, which including the following main topics:
 
 #### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
-#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
+#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Udacity-Nanodegrees/tree/master/Software-Engineering/README.md) Nanodegrees
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
