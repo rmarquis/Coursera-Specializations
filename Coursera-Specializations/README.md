@@ -21,8 +21,8 @@ Computer Science Specializations for computer science students, which including 
 Software Engineering Specializations for computer science students, which including the following main topics:
 
 #### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
-#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 #### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 #### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
