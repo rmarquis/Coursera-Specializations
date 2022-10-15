@@ -3,7 +3,7 @@
 # Data Science Specializations
 
 <br>
-<img align="right" width="90" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-icons/agenda.jpg">
 
 ## Table of Contents
   * [Data Science and Business Analytics Specializations](#Data-Science-and-Business-Analytics-Specializations)
