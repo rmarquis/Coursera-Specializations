@@ -7,7 +7,7 @@ Edx Programs for computer science students.
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
-## [`Computer Science`](/Edx-Programs/blob/master/Computer-Science/README.md) Programs
+## [`Computer Science`](/Edx-Programs/Computer-Science/README.md) Programs
 Computer Science Programs for computer science students, which including the following main topics:
 
 #### - [Programming Languages and Object Oriented](/Edx-Programs/blob/master/Computer-Science/README.md) Programs
