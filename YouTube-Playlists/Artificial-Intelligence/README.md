@@ -25,10 +25,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
@@ -37,10 +37,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
@@ -49,10 +49,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
@@ -61,10 +61,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Artificial-Intelligence-Algorithms/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -80,10 +80,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
@@ -92,10 +92,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
@@ -104,10 +104,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
@@ -116,10 +116,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Machine-Learning-and-Data-Mining/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -135,10 +135,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
@@ -147,10 +147,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
@@ -159,10 +159,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
@@ -171,10 +171,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Neural-Networks-and-Deep-Learning/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -190,10 +190,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
@@ -202,10 +202,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
@@ -214,10 +214,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
@@ -226,10 +226,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Signal-Processing-and-Data-Compression/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
@@ -245,10 +245,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
@@ -257,10 +257,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
@@ -269,10 +269,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
         <tr>
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
@@ -281,10 +281,10 @@
 <td align="center" width="25%"><a href="/YouTube-Playlists/Artificial-Intelligence/Image-Processing-and-Computer-Vision/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
-<td align="center" width="25%"><img src="/logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
+<td align="center" width="25%"><img src="/YouTube-Playlists/org-logos/image.jpg" width="80%"></img></td>
         </tr>
     </tbody>
 </table>
