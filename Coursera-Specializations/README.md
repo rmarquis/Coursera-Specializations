@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
+<img align="right" width="100" src="/logos/coursera.jpg"></img>
 
 # [Coursera](https://www.coursera.org/) Specializations
 Coursera Specializations for computer science students.
@@ -7,40 +7,40 @@ Coursera Specializations for computer science students.
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/computer-science-department.jpg">
 
-## [`Computer Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
+## [`Computer Science`](/Coursera-Specializations/Computer-Science/README.md) Specializations
 Computer Science Specializations for computer science students, which including the following main topics:
 
-#### - [Programming Languages and Object Oriented](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
-#### - [Mathematics and Probability](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
-#### - [Data Structures and Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
-#### - [Operating Systems and Parallel Computing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Programming Languages and Object Oriented](/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Mathematics and Probability](/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Data Structures and Algorithms](/Coursera-Specializations/Computer-Science/README.md) Specializations
+#### - [Operating Systems and Parallel Computing](/Coursera-Specializations/Computer-Science/README.md) Specializations
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/software-engineering-department.jpg">
 
-## [`Software Engineering`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
+## [`Software Engineering`](/Coursera-Specializations/Software-Engineering/README.md) Specializations
 Software Engineering Specializations for computer science students, which including the following main topics:
 
-#### - [Fundamentals of Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
-#### - [Continuous Delivery and DevOps](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
-#### - [Database Systems and Warehousing](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
-#### - [Web/Mobile/Game Development](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Fundamentals of Software Engineering](/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Continuous Delivery and DevOps](/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Database Systems and Warehousing](/Coursera-Specializations/Software-Engineering/README.md) Specializations
+#### - [Web/Mobile/Game Development](/Coursera-Specializations/Software-Engineering/README.md) Specializations
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/artificial-intelligence-department.jpg">
 
-## [`Artificial Intelligence`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+## [`Artificial Intelligence`](/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 Artificial Intelligence Specializations for computer science students, which including the following main topics:
 
-#### - [Artificial Intelligence Algorithms](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
-#### - [Machine Learning and Data Mining](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
-#### - [Neural Networks and Deep Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
-#### - [Image Processing and Computer Vision](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+#### - [Artificial Intelligence Algorithms](/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+#### - [Machine Learning and Data Mining](/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+#### - [Neural Networks and Deep Learning](/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
+#### - [Image Processing and Computer Vision](/Coursera-Specializations/Artificial-Intelligence/README.md) Specializations
 
 <img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/data-science-department.jpg">
 
-## [`Data Science`](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
+## [`Data Science`](/Coursera-Specializations/Data-Science/README.md) Specializations
 Data Science Specializations for computer science students, which including the following main topics:
 
-#### - [Data Science and Business Analytics](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
-#### - [Data Analysis and Visualization](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
-#### - [Business Intelligence and Data Management](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
-#### - [Data Engineering and Big Data](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/Coursera-Specializations/Data-Science/README.md) Specializations
+#### - [Data Science and Business Analytics](/Coursera-Specializations/Data-Science/README.md) Specializations
+#### - [Data Analysis and Visualization](/Coursera-Specializations/Data-Science/README.md) Specializations
+#### - [Business Intelligence and Data Management](/Coursera-Specializations/Data-Science/README.md) Specializations
+#### - [Data Engineering and Big Data](/Coursera-Specializations/Data-Science/README.md) Specializations
