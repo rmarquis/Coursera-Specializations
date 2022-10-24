@@ -1,97 +1,97 @@
-<img align="right" width="200" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/elearning-platforms.jpg"></img>
+<img align="right" width="200" src="/logos/elearning-platforms.jpg"></img>
 
 # eLearning Platforms
 eLearning Platforms for computer science students.
 
 <br><br><br>
 
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/youtube.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/khanacademy.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udemy.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udacity.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/codeacademy.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/edx.jpg"></img>
-<img width="85" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/freecodecamp.jpg"></img>
+<img width="85" src="/logos/youtube.jpg"></img>
+<img width="85" src="/logos/coursera.jpg"></img>
+<img width="85" src="/logos/datacamp.jpg"></img>
+<img width="85" src="/logos/khanacademy.jpg"></img>
+<img width="85" src="/logos/udemy.jpg"></img>
+<img width="85" src="/logos/udacity.jpg"></img>
+<img width="85" src="/logos/codeacademy.jpg"></img>
+<img width="85" src="/logos/edx.jpg"></img>
+<img width="85" src="/logos/freecodecamp.jpg"></img>
 <br><br><br><br>
 
 <br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/youtube.jpg"></img>
+<img align="right" width="100" src="/logos/youtube.jpg"></img>
 
-## [`YouTube Playlists`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md)
+## [`YouTube Playlists`](/YouTube-Playlists/README.md)
 
-### - [Computer Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/YouTube-Playlists/README.md) Playlists
-
-<br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/coursera.jpg"></img>
-
-## [`Coursera Specializations`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md)
-
-### - [Computer Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
-### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
-### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
-### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Coursera-Specializations/README.md) Specializations
+### - [Computer Science](/YouTube-Playlists/README.md) Playlists
+### - [Software Engineering](/YouTube-Playlists/README.md) Playlists
+### - [Artificial Intelligence](/YouTube-Playlists/README.md) Playlists
+### - [Data Science](/YouTube-Playlists/README.md) Playlists
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/khanacademy.jpg"></img>
+<img align="right" width="100" src="/logos/coursera.jpg"></img>
 
-## [`Khan Academy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Khan-Academy-Courses/README.md)
+## [`Coursera Specializations`](/Coursera-Specializations/README.md)
 
-<br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
-
-## [`DataCamp Tracks`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md)
-
-### - [Python Data Analysis](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [Python Machine Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [R Data Analysis](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [R Machine Learning](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [SQL](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [Theory](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [Spreadsheets and Excel](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [Tableau and Power-BI](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
-### - [Shell and Git](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/README.md) Tracks
+### - [Computer Science](/Coursera-Specializations/README.md) Specializations
+### - [Software Engineering](/Coursera-Specializations/README.md) Specializations
+### - [Artificial Intelligence](/Coursera-Specializations/README.md) Specializations
+### - [Data Science](/Coursera-Specializations/README.md) Specializations
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udemy.jpg"></img>
+<img align="right" width="100" src="/logos/khanacademy.jpg"></img>
 
-## [`Udemy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md)
-
-### - [Computer Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
-### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
-### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
-### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udemy-Courses/README.md) Courses
+## [`Khan Academy Courses`](/Khan-Academy-Courses/README.md)
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/udacity.jpg"></img>
+<img align="right" width="100" src="/logos/datacamp.jpg"></img>
 
-## [`Udacity Nanodegrees`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md)
+## [`DataCamp Tracks`](/DataCamp-Tracks/README.md)
 
-### - [Computer Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Udacity-Nanodegrees/README.md) Courses
-
-<br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/edx.jpg"></img>
-
-## [`Edx Programs`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md)
-
-### - [Computer Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
-### - [Software Engineering](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
-### - [Artificial Intelligence](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
-### - [Data Science](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/Edx-Programs/README.md) Programs
+### - [Python Data Analysis](/DataCamp-Tracks/README.md) Tracks
+### - [Python Machine Learning](/DataCamp-Tracks/README.md) Tracks
+### - [R Data Analysis](/DataCamp-Tracks/README.md) Tracks
+### - [R Machine Learning](/DataCamp-Tracks/README.md) Tracks
+### - [SQL](/DataCamp-Tracks/README.md) Tracks
+### - [Theory](/DataCamp-Tracks/README.md) Tracks
+### - [Spreadsheets and Excel](/DataCamp-Tracks/README.md) Tracks
+### - [Tableau and Power-BI](/DataCamp-Tracks/README.md) Tracks
+### - [Shell and Git](/DataCamp-Tracks/README.md) Tracks
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/freecodecamp.jpg"></img>
+<img align="right" width="100" src="/logos/udemy.jpg"></img>
 
-## [`freeCodeCamp Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/freeCodeCamp-Courses/README.md)
+## [`Udemy Courses`](/Udemy-Courses/README.md)
+
+### - [Computer Science](/Udemy-Courses/README.md) Courses
+### - [Software Engineering](/Udemy-Courses/README.md) Courses
+### - [Artificial Intelligence](/Udemy-Courses/README.md) Courses
+### - [Data Science](/Udemy-Courses/README.md) Courses
 
 <br><br>
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/codeacademy.jpg"></img>
+<img align="right" width="100" src="/logos/udacity.jpg"></img>
 
-## [`codecademy Courses`](https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/codecademy-Courses/README.md)
+## [`Udacity Nanodegrees`](/Udacity-Nanodegrees/README.md)
+
+### - [Computer Science](/Udacity-Nanodegrees/README.md) Courses
+### - [Software Engineering](/Udacity-Nanodegrees/README.md) Courses
+### - [Artificial Intelligence](/Udacity-Nanodegrees/README.md) Courses
+### - [Data Science](/Udacity-Nanodegrees/README.md) Courses
+
+<br><br>
+<img align="right" width="100" src="/logos/edx.jpg"></img>
+
+## [`Edx Programs`](/Edx-Programs/README.md)
+
+### - [Computer Science](/Edx-Programs/README.md) Programs
+### - [Software Engineering](/Edx-Programs/README.md) Programs
+### - [Artificial Intelligence](/Edx-Programs/README.md) Programs
+### - [Data Science](/Edx-Programs/README.md) Programs
+
+<br><br>
+<img align="right" width="100" src="/logos/freecodecamp.jpg"></img>
+
+## [`freeCodeCamp Courses`](/freeCodeCamp-Courses/README.md)
+
+<br><br>
+<img align="right" width="100" src="/logos/codeacademy.jpg"></img>
+
+## [`codecademy Courses`](/codecademy-Courses/README.md)
