@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/logos/datacamp.jpg"></img>
+<img align="right" width="100" src="/logos/datacamp.jpg"></img>
 
 # Spreadsheets and Excel Tracks
 Spreadsheets and Excel Tracks for computer science students, which including the following main topics:
@@ -12,76 +12,76 @@ Spreadsheets and Excel Tracks for computer science students, which including the
 
 <br><br>
 
-## [Excel](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md) Tracks
+## [Excel](/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Excel/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/excel.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
 
-## [Spreadsheets](https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md) Tracks
+## [Spreadsheets](/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md) Tracks
 
 <table>
     <tbody>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
         </tr>
         <tr>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
-<td align="center" width="25%"><a href="https://github.com/cs-MohamedAyman/eLearning-Platforms/tree/master/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
+<td align="center" width="25%"><a href="/DataCamp-Tracks/Spreadsheets-and-Excel/Spreadsheets/README.md">Template</a></td>
         </tr>
         <tr>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
-<td align="center" width="25%"><img src="https://github.com/cs-MohamedAyman/eLearning-Platforms/blob/master/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
+<td align="center" width="25%"><img src="/DataCamp-Tracks/org-logos/spreadsheet.jpg" width="70%"></img></td>
         </tr>
     </tbody>
 </table>
